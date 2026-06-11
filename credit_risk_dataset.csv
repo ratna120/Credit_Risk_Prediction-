@@ -1,0 +1,1001 @@
+customer_id,age,gender,education,employment_status,annual_income,months_employed,loan_amount,loan_term_months,interest_rate,credit_score,num_credit_lines,num_late_payments,debt_to_income_ratio,has_mortgage,has_dependents,loan_purpose,default
+CUST0001,62,Other,High School,Self-Employed,32140,52,46348,60,6.27,694,7,0,17.305,0,0,Car,0
+CUST0002,67,Male,Bachelor,Employed,46869,112,31439,60,10.18,754,3,1,8.049,1,1,Car,0
+CUST0003,43,Male,High School,Employed,27354,67,4847,48,15.44,711,7,0,2.126,1,1,Business,0
+CUST0004,36,Other,Master,Unemployed,75975,59,8619,48,10.17,577,6,0,1.361,1,0,Business,1
+CUST0005,32,Female,Bachelor,Employed,46819,118,43943,60,8.98,658,6,3,11.263,0,0,Home,0
+CUST0006,58,Female,Master,Employed,86414,335,34717,48,22.55,605,3,0,4.821,1,1,Business,0
+CUST0007,45,Other,High School,Unemployed,28513,24,9185,24,17.3,637,11,0,3.866,0,1,Personal,1
+CUST0008,57,Other,Master,Employed,81386,369,9507,60,19.82,650,5,0,1.402,1,0,Medical,0
+CUST0009,38,Female,PhD,Self-Employed,96970,160,21558,60,16.92,637,3,0,2.668,0,0,Business,0
+CUST0010,45,Other,Master,Part-Time,82714,157,17692,12,9.41,603,12,0,2.567,0,0,Car,0
+CUST0011,52,Female,PhD,Employed,73002,108,37343,24,19.04,616,7,5,6.138,1,1,Business,1
+CUST0012,43,Other,High School,Employed,35933,150,16432,12,5.95,591,1,3,5.488,0,0,Education,0
+CUST0013,53,Female,High School,Employed,41565,242,17925,48,20.97,588,4,0,5.175,1,1,Personal,0
+CUST0014,65,Female,Bachelor,Self-Employed,62820,31,28386,36,20.83,690,9,0,5.422,1,0,Education,0
+CUST0015,37,Female,Master,Employed,96388,25,5315,60,21.55,456,2,4,0.662,0,0,Personal,0
+CUST0016,25,Female,High School,Employed,33869,24,19380,48,10.32,586,9,1,6.866,1,0,Car,0
+CUST0017,35,Other,PhD,Employed,65938,14,5286,60,14.23,596,9,0,0.962,0,0,Home,1
+CUST0018,47,Other,High School,Part-Time,38591,126,39940,60,5.31,767,10,1,12.419,1,0,Medical,0
+CUST0019,42,Female,High School,Employed,28807,80,6754,12,13.85,565,10,5,2.813,0,0,Business,1
+CUST0020,26,Female,Master,Employed,96045,10,30716,60,18.85,414,11,1,3.838,1,0,Car,0
+CUST0021,29,Male,Master,Self-Employed,91335,26,49029,36,8.65,707,11,3,6.442,1,1,Home,0
+CUST0022,24,Other,High School,Self-Employed,20760,20,19167,24,19.62,539,1,0,11.079,0,0,Education,1
+CUST0023,57,Other,High School,Employed,25868,407,4614,36,8.79,839,4,1,2.14,1,1,Business,0
+CUST0024,32,Other,PhD,Part-Time,162336,112,29020,12,8.16,795,7,2,2.145,0,1,Car,0
+CUST0025,28,Female,Bachelor,Employed,48488,58,24915,36,21.24,652,4,0,6.166,0,1,Education,0
+CUST0026,39,Other,Bachelor,Employed,29502,173,37141,36,23.66,838,3,1,15.107,1,0,Home,1
+CUST0027,49,Female,Bachelor,Part-Time,19517,59,27244,60,8.38,752,1,2,16.751,0,0,Education,1
+CUST0028,43,Other,Bachelor,Self-Employed,67117,31,49169,36,14.85,595,12,0,8.791,0,0,Personal,0
+CUST0029,46,Female,Bachelor,Part-Time,48822,280,2026,36,10.35,583,7,2,0.498,1,1,Personal,0
+CUST0030,32,Male,Bachelor,Employed,42511,84,43480,60,11.34,709,11,0,12.274,0,0,Home,0
+CUST0031,37,Other,PhD,Self-Employed,113514,161,39727,24,19.15,530,7,0,4.2,0,0,Medical,1
+CUST0032,28,Other,Master,Employed,83190,66,32444,12,15.87,684,3,2,4.68,1,1,Business,0
+CUST0033,54,Female,Bachelor,Part-Time,49950,243,31495,36,19.84,659,11,0,7.566,1,0,Education,0
+CUST0034,39,Male,Bachelor,Part-Time,63564,20,11068,24,9.22,585,2,0,2.089,1,1,Personal,0
+CUST0035,35,Other,Master,Employed,88145,5,39728,48,14.23,400,6,0,5.409,1,1,Business,0
+CUST0036,36,Other,Bachelor,Employed,32111,124,3902,48,11.36,596,3,3,1.458,0,0,Personal,0
+CUST0037,58,Female,Bachelor,Employed,31762,93,5295,36,12.23,727,4,0,2.001,1,1,Education,0
+CUST0038,23,Male,Master,Employed,90474,5,16694,12,20.44,543,4,0,2.214,0,0,Car,0
+CUST0039,52,Other,Bachelor,Employed,62495,188,12996,60,16.89,791,12,2,2.495,0,1,Home,0
+CUST0040,65,Other,Master,Employed,84847,366,14997,12,16.58,676,12,2,2.121,0,0,Education,0
+CUST0041,49,Male,Bachelor,Employed,56611,215,34125,12,13.34,627,6,1,7.234,1,0,Personal,0
+CUST0042,39,Male,Bachelor,Part-Time,20572,198,33686,48,13.39,630,4,3,19.65,0,1,Personal,1
+CUST0043,51,Male,Bachelor,Self-Employed,49253,166,13917,48,8.83,739,5,0,3.391,1,0,Business,0
+CUST0044,53,Other,Bachelor,Employed,69855,243,44329,48,13.64,722,7,1,7.615,1,1,Personal,0
+CUST0045,55,Other,Bachelor,Unemployed,45168,232,19754,36,9.63,611,2,2,5.248,1,0,Medical,1
+CUST0046,34,Male,High School,Employed,28279,134,41111,36,24.5,681,6,0,17.445,0,0,Education,0
+CUST0047,25,Female,Bachelor,Self-Employed,78484,31,8723,12,16.21,783,8,0,1.334,1,0,Home,0
+CUST0048,26,Other,Bachelor,Employed,52018,40,46987,12,7.6,731,2,5,10.839,0,1,Business,0
+CUST0049,61,Male,High School,Employed,23763,301,30103,36,16.1,673,1,1,15.202,0,0,Medical,0
+CUST0050,37,Male,High School,Employed,35278,0,28772,48,18.56,614,5,2,9.787,1,0,Medical,0
+CUST0051,38,Male,Master,Self-Employed,56713,108,9521,60,9.09,442,3,4,2.015,0,0,Home,1
+CUST0052,58,Female,PhD,Employed,74341,239,47133,36,18.77,750,8,0,7.608,0,1,Medical,0
+CUST0053,60,Other,Bachelor,Employed,84784,294,40477,12,24.89,594,11,3,5.729,0,0,Personal,0
+CUST0054,33,Female,PhD,Employed,60134,125,7979,48,11.6,565,3,0,1.592,1,1,Medical,1
+CUST0055,57,Male,High School,Employed,31940,395,28488,60,21.33,689,1,1,10.703,1,1,Home,0
+CUST0056,53,Other,Bachelor,Self-Employed,55659,104,19501,60,7.17,591,8,0,4.204,0,0,Education,1
+CUST0057,22,Female,Bachelor,Employed,90000,0,9698,24,14.67,629,12,0,1.293,1,1,Personal,0
+CUST0058,46,Female,High School,Employed,42119,69,6575,36,20.26,695,9,0,1.873,0,1,Medical,0
+CUST0059,59,Male,Bachelor,Self-Employed,68449,247,24618,36,15.76,558,9,0,4.316,1,0,Medical,0
+CUST0060,48,Other,High School,Self-Employed,29456,195,27302,24,14.6,754,10,0,11.122,0,1,Home,0
+CUST0061,51,Other,High School,Employed,46589,38,32768,36,11.41,448,12,0,8.44,0,1,Medical,0
+CUST0062,67,Other,Master,Employed,94245,277,4352,60,5.9,486,4,2,0.554,1,0,Medical,0
+CUST0063,28,Male,Bachelor,Self-Employed,61655,7,21226,36,12.15,622,3,0,4.131,1,0,Car,1
+CUST0064,61,Other,Bachelor,Employed,71966,298,11379,24,13.91,638,1,3,1.897,1,1,Medical,1
+CUST0065,32,Male,High School,Unemployed,38725,54,47240,36,13.82,633,5,0,14.639,1,1,Home,0
+CUST0066,40,Other,PhD,Employed,127590,212,45137,48,10.1,500,12,5,4.245,1,1,Car,1
+CUST0067,44,Female,High School,Employed,31947,70,43172,12,22.93,807,11,0,16.216,1,0,Business,0
+CUST0068,40,Other,Bachelor,Employed,51736,51,10661,60,22.38,561,5,3,2.473,1,1,Education,1
+CUST0069,43,Other,Master,Employed,112568,57,46323,48,24.23,716,9,0,4.938,1,0,Education,0
+CUST0070,65,Female,Bachelor,Employed,67744,326,26344,12,18.27,503,9,0,4.667,0,0,Medical,1
+CUST0071,66,Other,Bachelor,Employed,80387,155,34284,12,6.48,826,9,0,5.118,1,1,Medical,0
+CUST0072,59,Female,Master,Employed,57876,212,44920,12,21.51,463,5,0,9.314,1,0,Personal,0
+CUST0073,37,Male,Master,Employed,71891,165,25506,12,12.62,524,4,5,4.257,1,0,Medical,1
+CUST0074,23,Other,High School,Employed,23614,2,39000,24,5.9,646,4,2,19.819,0,1,Car,0
+CUST0075,22,Male,Bachelor,Unemployed,76020,0,9204,12,7.19,630,6,2,1.453,0,1,Home,1
+CUST0076,48,Male,Bachelor,Self-Employed,65514,243,31378,36,14.97,731,10,0,5.747,1,1,Medical,0
+CUST0077,25,Other,PhD,Part-Time,98240,28,6816,12,11.07,661,3,0,0.833,1,1,Personal,0
+CUST0078,60,Other,Bachelor,Part-Time,54957,58,44907,60,19.21,663,4,0,9.806,1,1,Personal,0
+CUST0079,28,Male,Bachelor,Employed,56896,60,6399,12,21.47,850,2,0,1.35,1,0,Business,0
+CUST0080,43,Other,Bachelor,Employed,48374,223,45603,48,22.21,592,10,0,11.313,0,0,Car,0
+CUST0081,52,Male,High School,Employed,36319,142,39624,24,20.97,560,9,5,13.092,0,1,Home,1
+CUST0082,43,Female,Bachelor,Employed,82321,36,39114,48,5.92,624,2,2,5.702,0,1,Personal,0
+CUST0083,43,Other,High School,Employed,23414,152,7567,12,7.67,850,10,0,3.878,0,1,Personal,0
+CUST0084,48,Other,Bachelor,Self-Employed,67106,58,24621,48,6.76,581,9,1,4.403,0,0,Personal,0
+CUST0085,25,Other,High School,Employed,33048,16,20969,36,6.95,692,8,2,7.614,0,0,Personal,0
+CUST0086,64,Male,Master,Employed,58869,379,4772,48,4.88,815,10,0,0.973,1,1,Education,0
+CUST0087,47,Female,High School,Employed,35517,185,7775,48,21.73,508,4,0,2.627,1,0,Personal,0
+CUST0088,32,Female,High School,Self-Employed,26339,67,35420,24,22.98,545,11,2,16.137,0,0,Car,1
+CUST0089,34,Female,High School,Employed,32182,126,32405,60,20.0,600,8,1,12.083,1,1,Car,0
+CUST0090,41,Other,Master,Employed,91214,90,35248,12,10.83,607,5,0,4.637,0,1,Personal,0
+CUST0091,57,Female,PhD,Self-Employed,168228,292,44718,24,11.06,695,8,1,3.19,0,1,Home,0
+CUST0092,63,Other,High School,Employed,31629,224,30797,60,15.16,692,5,0,11.684,1,0,Medical,0
+CUST0093,43,Other,High School,Employed,29154,185,45028,60,22.31,566,6,0,18.534,0,1,Education,1
+CUST0094,60,Female,Master,Employed,62613,286,26686,36,21.09,549,12,5,5.114,0,1,Business,1
+CUST0095,23,Female,Bachelor,Employed,65857,7,14583,24,24.9,850,3,0,2.657,0,0,Medical,0
+CUST0096,60,Female,Bachelor,Employed,43900,354,42942,24,19.21,731,12,0,11.738,1,1,Medical,0
+CUST0097,36,Male,Bachelor,Employed,63874,49,26106,60,24.58,535,8,2,4.905,1,1,Car,1
+CUST0098,38,Male,High School,Employed,27857,95,38342,12,19.01,588,2,2,16.517,1,1,Business,0
+CUST0099,49,Male,High School,Part-Time,38765,13,29190,12,12.59,450,6,0,9.036,0,1,Car,1
+CUST0100,67,Female,Bachelor,Part-Time,64016,70,4510,36,23.21,454,12,0,0.845,0,0,Home,1
+CUST0101,35,Female,Master,Employed,78420,28,20881,24,10.64,518,1,0,3.195,1,0,Home,0
+CUST0102,54,Other,Bachelor,Self-Employed,56492,149,30130,12,17.04,646,11,1,6.4,1,0,Business,0
+CUST0103,54,Male,Master,Employed,123333,22,43659,48,24.51,665,5,2,4.248,1,0,Education,0
+CUST0104,59,Male,Master,Employed,53325,22,25088,60,11.41,522,11,0,5.646,1,0,Car,0
+CUST0105,67,Other,Master,Employed,80345,102,4746,36,23.54,668,9,0,0.709,1,1,Home,0
+CUST0106,25,Female,Master,Employed,99960,7,26118,48,22.65,631,7,0,3.135,0,1,Medical,0
+CUST0107,45,Female,PhD,Employed,123998,40,30220,60,24.8,487,3,1,2.925,1,0,Home,0
+CUST0108,60,Other,Master,Employed,67137,227,25038,48,5.36,703,7,0,4.475,0,0,Medical,0
+CUST0109,47,Other,Bachelor,Part-Time,42624,73,41817,48,5.21,416,2,0,11.773,1,1,Personal,1
+CUST0110,50,Other,PhD,Employed,113207,39,39612,24,15.3,523,4,5,4.199,0,0,Personal,1
+CUST0111,46,Male,Master,Employed,86997,109,42099,36,18.66,485,8,0,5.807,0,0,Personal,1
+CUST0112,27,Male,Master,Unemployed,68773,20,45767,36,18.97,561,5,3,7.986,0,1,Business,1
+CUST0113,29,Female,PhD,Part-Time,112672,46,38308,60,12.03,756,9,0,4.08,0,0,Education,0
+CUST0114,55,Female,Bachelor,Employed,57941,294,6833,24,24.34,571,11,1,1.415,0,0,Car,0
+CUST0115,54,Male,Master,Employed,90398,84,12614,36,23.57,680,4,0,1.674,1,0,Education,0
+CUST0116,30,Male,Bachelor,Self-Employed,44234,11,34936,24,16.57,586,10,2,9.478,1,0,Home,0
+CUST0117,24,Male,PhD,Self-Employed,108259,18,29301,60,17.54,708,8,3,3.248,1,1,Personal,0
+CUST0118,41,Male,Bachelor,Self-Employed,37248,40,30809,48,14.38,678,6,3,9.926,1,1,Personal,1
+CUST0119,45,Female,Bachelor,Employed,58384,230,18247,24,6.47,691,5,4,3.75,1,0,Car,1
+CUST0120,34,Female,Master,Employed,68753,131,32593,48,22.43,596,7,1,5.689,0,0,Business,0
+CUST0121,25,Female,High School,Employed,40615,30,20726,60,4.67,541,2,0,6.124,1,1,Personal,1
+CUST0122,57,Female,High School,Employed,32727,37,27319,60,13.69,462,10,1,10.017,0,0,Home,0
+CUST0123,45,Other,Master,Employed,113882,101,41483,60,12.69,577,1,0,4.371,0,1,Personal,0
+CUST0124,54,Male,High School,Unemployed,34916,163,12649,48,24.71,634,6,1,4.347,1,1,Personal,0
+CUST0125,45,Female,Bachelor,Employed,47236,13,41119,48,9.92,682,11,2,10.446,0,0,Business,0
+CUST0126,61,Other,Master,Employed,107343,420,46612,24,5.14,685,1,0,5.211,1,0,Personal,0
+CUST0127,35,Male,Bachelor,Self-Employed,83850,15,48253,24,15.08,542,9,0,6.906,1,1,Education,0
+CUST0128,56,Male,Bachelor,Self-Employed,62487,369,46613,36,16.95,666,9,0,8.952,1,1,Medical,0
+CUST0129,66,Male,Master,Employed,54220,407,49294,36,10.37,829,10,1,10.91,1,1,Education,0
+CUST0130,67,Other,High School,Unemployed,38377,335,18806,48,8.87,677,9,1,5.88,0,0,Business,0
+CUST0131,59,Male,High School,Employed,36735,119,5440,12,12.93,599,12,0,1.777,0,0,Business,0
+CUST0132,52,Male,Bachelor,Employed,76720,147,23048,36,17.68,676,10,0,3.605,0,0,Personal,0
+CUST0133,24,Other,PhD,Employed,45435,9,4455,12,10.59,646,10,0,1.177,1,1,Personal,0
+CUST0134,30,Other,Master,Employed,75570,24,9382,36,7.81,565,3,0,1.49,1,1,Business,1
+CUST0135,34,Male,High School,Part-Time,43957,131,23491,12,12.68,527,2,0,6.413,0,1,Education,1
+CUST0136,50,Female,Master,Unemployed,82865,154,40172,60,4.73,552,1,1,5.817,1,1,Car,1
+CUST0137,65,Female,Bachelor,Part-Time,54399,60,43858,36,12.0,557,4,0,9.675,0,1,Car,1
+CUST0138,48,Male,Master,Part-Time,54033,275,45522,24,20.04,582,2,1,10.11,1,0,Business,0
+CUST0139,25,Female,Master,Part-Time,89529,10,23503,60,13.51,758,11,0,3.15,1,0,Business,0
+CUST0140,54,Female,Bachelor,Employed,43133,286,32302,36,19.25,493,12,0,8.987,0,0,Personal,1
+CUST0141,66,Female,High School,Unemployed,34773,241,4079,36,12.84,624,3,2,1.408,1,1,Personal,1
+CUST0142,46,Female,High School,Unemployed,19267,276,10715,36,6.92,739,3,2,6.674,0,0,Home,1
+CUST0143,51,Female,Bachelor,Employed,31541,126,32187,36,7.66,602,4,4,12.246,0,0,Medical,0
+CUST0144,23,Male,High School,Employed,19593,9,4200,48,16.69,630,12,0,2.572,1,0,Business,0
+CUST0145,25,Other,High School,Unemployed,33770,36,22899,60,16.7,850,11,2,8.137,0,1,Car,0
+CUST0146,39,Male,High School,Unemployed,30899,188,13477,48,15.84,727,11,1,5.234,1,1,Personal,0
+CUST0147,41,Male,Bachelor,Self-Employed,30177,76,48371,24,20.94,672,1,1,19.235,1,0,Personal,0
+CUST0148,27,Male,PhD,Part-Time,134611,5,37103,24,5.55,542,1,3,3.308,0,0,Personal,1
+CUST0149,43,Other,Bachelor,Part-Time,60237,189,9688,48,23.15,703,12,1,1.93,0,1,Car,0
+CUST0150,51,Female,Bachelor,Employed,68651,133,25569,60,22.51,463,12,0,4.469,1,0,Education,1
+CUST0151,48,Other,High School,Part-Time,31920,283,40275,60,19.19,621,5,0,15.141,1,0,Personal,0
+CUST0152,63,Other,PhD,Employed,81990,390,34022,48,13.9,629,3,2,4.979,1,0,Business,0
+CUST0153,25,Other,Bachelor,Part-Time,81899,3,2418,48,7.3,723,11,0,0.354,0,0,Car,0
+CUST0154,62,Other,Bachelor,Self-Employed,59397,247,45206,48,4.82,539,1,1,9.133,1,1,Home,0
+CUST0155,66,Male,Bachelor,Part-Time,63819,49,36366,24,9.42,614,10,1,6.838,1,1,Personal,0
+CUST0156,58,Other,High School,Self-Employed,37844,153,46829,12,17.84,746,2,0,14.849,1,1,Home,0
+CUST0157,22,Male,Master,Employed,98631,0,39083,12,22.75,521,1,0,4.755,1,1,Home,0
+CUST0158,56,Male,Bachelor,Employed,47221,161,3026,24,16.48,642,7,4,0.769,1,0,Business,0
+CUST0159,58,Female,Master,Employed,96650,386,11171,12,14.72,585,6,0,1.387,1,0,Home,0
+CUST0160,60,Other,Bachelor,Self-Employed,45723,15,43557,36,20.48,571,9,4,11.432,1,0,Medical,1
+CUST0161,64,Female,Bachelor,Self-Employed,54931,37,7376,36,7.65,712,12,2,1.611,0,1,Education,0
+CUST0162,41,Male,Bachelor,Self-Employed,58918,26,10683,12,8.32,519,7,0,2.176,0,1,Business,1
+CUST0163,60,Male,Bachelor,Employed,48952,198,7550,60,22.97,694,4,1,1.851,0,1,Car,0
+CUST0164,31,Male,High School,Employed,38280,53,21644,48,20.47,485,12,1,6.785,0,1,Home,1
+CUST0165,41,Other,High School,Employed,36257,220,23596,48,11.33,557,11,5,7.81,0,1,Education,1
+CUST0166,42,Other,High School,Employed,30257,81,21100,48,24.24,657,5,2,8.368,1,1,Home,0
+CUST0167,34,Female,Bachelor,Employed,50375,118,48423,24,13.44,525,5,3,11.535,0,1,Medical,1
+CUST0168,38,Other,Bachelor,Self-Employed,67449,96,6847,48,24.71,539,9,4,1.218,1,0,Education,1
+CUST0169,56,Male,Bachelor,Part-Time,66467,340,25265,24,17.7,687,1,1,4.561,1,1,Personal,0
+CUST0170,54,Female,Master,Employed,83050,352,39698,24,13.59,506,10,1,5.736,0,1,Home,1
+CUST0171,28,Female,Bachelor,Unemployed,81471,18,24828,36,11.5,736,4,1,3.657,1,1,Home,0
+CUST0172,26,Other,Bachelor,Part-Time,42331,7,3480,36,17.72,613,12,0,0.987,0,0,Education,0
+CUST0173,49,Other,PhD,Employed,95472,221,27924,12,19.54,675,4,0,3.51,1,1,Home,0
+CUST0174,67,Female,Master,Employed,98154,52,37185,24,11.96,656,11,3,4.546,1,1,Business,0
+CUST0175,59,Male,High School,Employed,27248,344,48267,36,23.24,656,10,0,21.257,0,1,Home,0
+CUST0176,66,Female,High School,Employed,36782,305,11035,60,12.33,695,12,4,3.6,0,0,Personal,1
+CUST0177,30,Female,High School,Part-Time,20277,1,33759,24,8.48,503,7,5,19.979,1,1,Medical,1
+CUST0178,53,Male,High School,Employed,39742,112,21142,12,10.11,580,8,1,6.384,1,0,Business,0
+CUST0179,39,Female,Master,Part-Time,56454,10,49119,48,15.65,778,7,0,10.441,0,1,Home,0
+CUST0180,27,Male,Bachelor,Unemployed,86775,49,17528,24,21.04,560,12,1,2.424,1,0,Business,1
+CUST0181,35,Female,Master,Part-Time,59138,152,37308,24,11.1,587,12,0,7.57,1,0,Car,1
+CUST0182,63,Female,High School,Part-Time,19776,127,11584,36,21.4,650,8,0,7.029,1,1,Personal,0
+CUST0183,26,Female,Bachelor,Part-Time,72556,17,47528,36,13.78,706,8,0,7.861,0,0,Medical,0
+CUST0184,26,Male,Master,Employed,58248,27,15883,48,9.98,682,10,0,3.272,1,1,Medical,0
+CUST0185,24,Female,High School,Part-Time,28011,5,30920,48,4.51,652,7,0,13.246,0,1,Car,0
+CUST0186,27,Female,Bachelor,Part-Time,65587,10,5393,48,17.26,614,7,1,0.987,0,0,Car,0
+CUST0187,26,Female,High School,Employed,31534,44,24516,12,24.66,627,7,1,9.329,1,0,Car,1
+CUST0188,28,Other,Bachelor,Part-Time,71976,17,27082,24,17.59,623,10,0,4.515,0,1,Education,0
+CUST0189,35,Female,Bachelor,Employed,39224,55,7681,12,7.36,720,2,1,2.35,1,1,Personal,0
+CUST0190,63,Female,High School,Employed,26162,307,49263,60,10.31,661,11,3,22.596,0,0,Medical,0
+CUST0191,40,Male,Bachelor,Part-Time,60913,98,9388,24,14.69,568,10,0,1.849,0,1,Education,0
+CUST0192,48,Other,Bachelor,Self-Employed,76084,241,6783,12,16.48,709,1,4,1.07,1,1,Medical,0
+CUST0193,54,Female,Master,Employed,58031,275,42373,24,10.16,722,5,0,8.762,0,0,Business,0
+CUST0194,63,Other,Bachelor,Employed,71036,357,30671,24,5.68,731,8,1,5.181,0,1,Medical,0
+CUST0195,64,Female,Master,Employed,73665,83,34532,36,15.17,489,12,0,5.625,1,0,Medical,0
+CUST0196,23,Male,Bachelor,Employed,50773,8,6185,36,19.03,604,8,1,1.462,0,1,Business,0
+CUST0197,45,Male,High School,Self-Employed,41432,59,16968,60,4.55,547,1,0,4.914,1,1,Personal,1
+CUST0198,24,Other,Bachelor,Part-Time,91230,23,44972,48,9.08,642,6,0,5.915,0,1,Home,1
+CUST0199,65,Male,Master,Employed,101378,205,6517,48,22.17,373,5,0,0.771,1,0,Education,0
+CUST0200,61,Male,High School,Employed,45540,252,14807,60,20.01,640,7,0,3.902,1,0,Education,0
+CUST0201,64,Other,Bachelor,Self-Employed,54525,121,29513,48,24.11,703,3,2,6.495,0,0,Car,0
+CUST0202,51,Female,PhD,Employed,140369,48,35123,24,17.5,534,1,0,3.003,0,0,Education,1
+CUST0203,42,Male,PhD,Employed,122028,115,19822,24,6.02,562,4,0,1.949,0,0,Home,0
+CUST0204,29,Male,Bachelor,Unemployed,61922,26,31616,36,13.95,666,11,0,6.127,0,0,Education,0
+CUST0205,27,Male,Master,Unemployed,76837,19,19050,24,5.13,659,7,3,2.975,0,0,Personal,1
+CUST0206,22,Male,High School,Part-Time,27859,0,10566,24,21.3,541,11,0,4.551,1,0,Home,1
+CUST0207,34,Male,Master,Employed,112699,84,10029,12,23.72,797,1,0,1.068,1,1,Personal,0
+CUST0208,44,Female,High School,Employed,37670,143,31229,24,5.21,584,5,0,9.948,1,0,Home,0
+CUST0209,46,Other,High School,Employed,39316,278,3279,48,20.45,559,6,0,1.001,1,1,Business,0
+CUST0210,23,Other,Bachelor,Employed,68368,12,20411,12,21.0,547,10,5,3.583,0,0,Car,1
+CUST0211,37,Male,Bachelor,Part-Time,62268,56,39728,48,11.74,623,3,0,7.656,1,1,Business,0
+CUST0212,58,Female,Bachelor,Employed,45073,96,34258,60,10.8,596,4,1,9.121,0,1,Home,0
+CUST0213,61,Female,High School,Employed,28302,165,5903,12,7.51,420,12,4,2.503,0,1,Home,1
+CUST0214,59,Other,High School,Employed,20692,69,12322,48,20.65,780,3,2,7.146,1,0,Medical,0
+CUST0215,33,Other,Bachelor,Self-Employed,55495,0,48006,60,12.49,700,10,0,10.381,1,0,Medical,0
+CUST0216,43,Female,Master,Employed,96606,251,22939,24,17.48,820,11,1,2.849,1,1,Home,0
+CUST0217,35,Female,High School,Employed,31840,0,5155,48,13.44,687,7,5,1.943,1,1,Personal,0
+CUST0218,52,Male,Master,Employed,79296,351,16783,24,13.71,647,1,0,2.54,0,0,Education,0
+CUST0219,46,Male,High School,Employed,52648,173,40930,60,22.72,541,12,0,9.329,0,1,Car,1
+CUST0220,34,Male,Bachelor,Employed,63844,138,19384,36,10.57,722,9,3,3.643,0,0,Education,0
+CUST0221,49,Female,High School,Part-Time,25531,49,3686,24,7.98,559,5,5,1.732,1,0,Education,1
+CUST0222,38,Other,High School,Employed,35082,47,26315,48,12.04,566,8,0,9.001,1,0,Car,1
+CUST0223,64,Male,High School,Self-Employed,34956,387,40648,24,15.79,543,7,2,13.954,1,1,Business,0
+CUST0224,67,Female,High School,Employed,32482,264,39452,60,7.51,743,3,5,14.575,0,0,Home,0
+CUST0225,27,Other,PhD,Employed,148627,53,40997,36,11.02,637,12,4,3.31,0,0,Personal,0
+CUST0226,39,Male,Bachelor,Part-Time,65744,3,47902,60,16.49,649,3,0,8.743,0,0,Business,0
+CUST0227,40,Other,Master,Part-Time,93557,167,33823,60,16.92,585,1,0,4.338,1,0,Business,0
+CUST0228,47,Male,Master,Employed,63153,121,5230,48,23.29,656,5,0,0.994,1,0,Car,0
+CUST0229,41,Female,PhD,Employed,119992,106,41647,12,8.33,569,4,4,4.165,1,1,Business,1
+CUST0230,32,Male,High School,Self-Employed,23314,51,10889,60,22.44,704,4,3,5.605,0,0,Personal,1
+CUST0231,45,Other,Master,Employed,92835,63,46641,12,9.44,533,8,1,6.029,0,1,Business,0
+CUST0232,38,Other,Master,Self-Employed,91921,72,3798,48,5.51,745,4,3,0.496,0,0,Education,0
+CUST0233,48,Female,Bachelor,Part-Time,79488,242,10671,24,16.76,608,1,0,1.611,1,1,Personal,0
+CUST0234,35,Male,Bachelor,Self-Employed,45091,101,40304,12,4.65,850,6,1,10.726,1,1,Medical,0
+CUST0235,52,Female,High School,Unemployed,21906,133,44999,36,8.34,486,9,2,24.65,0,1,Medical,1
+CUST0236,63,Female,Bachelor,Employed,36981,214,28515,48,19.53,359,4,0,9.253,0,1,Medical,0
+CUST0237,54,Male,Bachelor,Employed,47834,150,8396,48,7.11,533,5,2,2.106,0,1,Medical,1
+CUST0238,41,Other,Bachelor,Part-Time,68152,95,19076,60,10.5,706,11,1,3.359,0,1,Car,0
+CUST0239,29,Other,Master,Employed,79955,19,11002,24,11.49,671,10,3,1.651,1,0,Education,0
+CUST0240,43,Other,Bachelor,Employed,63391,162,5801,12,13.72,683,10,2,1.098,1,0,Car,0
+CUST0241,49,Male,Bachelor,Employed,71920,19,36981,24,19.41,618,1,3,6.17,0,0,Medical,0
+CUST0242,66,Other,Master,Employed,70919,52,27136,60,16.51,732,5,4,4.592,1,1,Personal,1
+CUST0243,30,Female,Bachelor,Part-Time,52061,51,3253,24,9.08,689,3,0,0.75,0,0,Home,0
+CUST0244,46,Female,Master,Employed,46743,273,42837,12,16.62,685,1,0,10.997,0,1,Personal,0
+CUST0245,29,Male,Bachelor,Employed,70780,80,2609,36,13.09,766,2,1,0.442,1,0,Personal,0
+CUST0246,40,Other,High School,Employed,31193,50,41911,24,20.37,771,6,2,16.123,1,0,Home,0
+CUST0247,53,Male,Master,Self-Employed,67123,6,46016,12,23.0,648,10,1,8.227,0,0,Business,0
+CUST0248,38,Male,Bachelor,Employed,51390,75,19309,48,5.52,718,5,0,4.509,1,1,Medical,0
+CUST0249,28,Male,Master,Part-Time,93168,21,23539,36,22.75,643,10,0,3.032,0,1,Education,1
+CUST0250,51,Other,Bachelor,Employed,67615,244,29639,24,6.81,628,3,0,5.26,1,1,Car,0
+CUST0251,46,Female,Master,Self-Employed,109428,66,33659,48,6.8,483,7,0,3.691,0,1,Medical,1
+CUST0252,55,Other,Master,Employed,85202,289,16679,36,15.09,587,7,1,2.349,0,1,Education,0
+CUST0253,65,Male,Bachelor,Employed,72136,313,5576,12,17.63,452,3,1,0.928,1,1,Car,1
+CUST0254,43,Male,PhD,Employed,85819,57,38077,48,12.73,650,10,0,5.324,1,1,Education,0
+CUST0255,53,Female,Master,Employed,77450,281,2011,12,20.65,655,10,1,0.312,0,1,Education,0
+CUST0256,51,Other,Bachelor,Self-Employed,34229,307,33007,36,19.1,767,4,0,11.572,1,1,Business,0
+CUST0257,45,Male,Master,Employed,87792,209,9009,36,16.96,687,4,0,1.231,1,0,Personal,0
+CUST0258,48,Female,High School,Self-Employed,28262,301,10075,48,13.83,539,8,0,4.278,0,1,Business,1
+CUST0259,54,Other,Master,Part-Time,77473,65,8786,48,17.91,582,10,3,1.361,1,1,Business,1
+CUST0260,43,Male,PhD,Employed,88078,34,11055,48,16.79,730,12,1,1.506,1,0,Car,0
+CUST0261,61,Female,Master,Self-Employed,91624,363,44604,24,14.78,614,12,1,5.842,0,1,Business,0
+CUST0262,67,Male,Bachelor,Self-Employed,40763,273,20738,48,20.99,617,3,0,6.105,0,0,Education,0
+CUST0263,40,Other,Bachelor,Employed,81493,52,37466,12,11.82,706,8,0,5.517,0,1,Car,0
+CUST0264,40,Female,Bachelor,Employed,32633,97,27398,48,24.02,725,9,0,10.075,1,0,Business,0
+CUST0265,36,Male,Master,Self-Employed,61375,139,41543,24,20.33,505,4,0,8.122,0,0,Car,0
+CUST0266,24,Other,Bachelor,Employed,50721,4,12546,60,21.76,751,3,0,2.968,1,0,Medical,0
+CUST0267,64,Other,Bachelor,Part-Time,52636,362,22831,60,8.99,627,3,1,5.205,0,1,Business,0
+CUST0268,35,Other,Bachelor,Employed,65667,75,16316,60,15.32,826,11,0,2.982,1,1,Car,0
+CUST0269,61,Male,Master,Employed,123359,195,9430,48,9.73,691,12,0,0.917,1,1,Personal,0
+CUST0270,42,Other,Bachelor,Unemployed,78164,42,37256,60,4.65,776,4,3,5.72,1,0,Car,1
+CUST0271,66,Male,Master,Self-Employed,47317,36,46960,24,4.98,712,12,0,11.909,0,0,Home,0
+CUST0272,58,Other,Master,Part-Time,56805,208,27430,48,17.36,623,11,0,5.795,0,0,Medical,0
+CUST0273,24,Other,Master,Employed,90735,21,21749,60,6.26,619,8,0,2.876,0,1,Car,0
+CUST0274,56,Other,Bachelor,Self-Employed,81602,152,46386,36,24.03,843,3,0,6.821,0,1,Business,0
+CUST0275,27,Male,Bachelor,Self-Employed,68940,26,44331,60,7.41,587,3,0,7.716,1,0,Home,0
+CUST0276,25,Male,Master,Unemployed,58669,35,32229,60,5.99,604,4,2,6.592,1,1,Education,0
+CUST0277,64,Female,Bachelor,Employed,35246,162,33841,48,11.2,493,11,0,11.522,0,1,Education,1
+CUST0278,36,Male,Master,Self-Employed,97498,70,25559,24,18.36,583,8,0,3.146,1,1,Business,0
+CUST0279,33,Male,Bachelor,Employed,52811,50,19251,12,19.34,823,1,3,4.374,0,1,Business,1
+CUST0280,56,Other,Master,Employed,67582,334,11740,36,12.51,743,5,0,2.085,0,1,Education,0
+CUST0281,22,Male,Bachelor,Part-Time,64959,0,35694,24,13.6,510,3,1,6.594,0,1,Education,1
+CUST0282,26,Other,Bachelor,Employed,74448,42,15551,60,23.02,567,8,3,2.507,0,1,Home,1
+CUST0283,55,Male,Bachelor,Employed,57031,291,13393,48,17.83,508,6,1,2.818,0,1,Personal,0
+CUST0284,44,Other,Bachelor,Employed,56610,3,34888,24,13.47,655,5,0,7.395,0,0,Education,0
+CUST0285,67,Male,Master,Self-Employed,66224,58,33556,48,14.27,685,10,0,6.08,1,0,Car,0
+CUST0286,30,Male,Bachelor,Employed,71982,73,11624,12,7.89,746,7,1,1.938,0,1,Home,0
+CUST0287,50,Other,Bachelor,Employed,47862,210,41376,24,20.71,648,3,1,10.374,1,0,Medical,0
+CUST0288,59,Other,High School,Employed,39344,67,9115,12,8.63,715,7,3,2.78,0,0,Personal,0
+CUST0289,60,Male,High School,Part-Time,28000,246,45213,24,22.9,638,9,3,19.377,1,1,Education,1
+CUST0290,52,Other,Master,Employed,61462,301,47659,60,6.49,715,4,4,9.305,0,1,Business,0
+CUST0291,48,Male,Bachelor,Employed,57930,267,9722,60,4.65,628,11,0,2.014,1,1,Education,0
+CUST0292,38,Other,Bachelor,Employed,75398,144,25962,60,10.12,569,7,1,4.132,1,0,Education,0
+CUST0293,57,Other,Bachelor,Unemployed,35903,203,11048,12,19.76,559,8,2,3.693,0,0,Car,1
+CUST0294,57,Female,Bachelor,Self-Employed,65709,26,12534,48,24.18,683,3,0,2.289,1,0,Home,0
+CUST0295,36,Male,Bachelor,Self-Employed,52654,102,42236,60,10.34,411,10,0,9.626,0,1,Personal,1
+CUST0296,55,Female,Bachelor,Employed,78239,306,35459,60,18.75,527,6,0,5.439,0,0,Home,0
+CUST0297,47,Male,Bachelor,Employed,42987,35,7909,60,10.3,577,9,4,2.208,1,1,Education,1
+CUST0298,47,Female,Bachelor,Employed,52090,208,35176,12,15.9,548,2,2,8.104,1,1,Medical,0
+CUST0299,46,Other,Bachelor,Self-Employed,59735,234,46668,48,22.79,385,1,0,9.375,1,0,Personal,1
+CUST0300,66,Male,High School,Employed,26520,180,35849,60,4.7,677,2,0,16.221,1,0,Business,0
+CUST0301,52,Male,Bachelor,Employed,49757,349,14462,48,19.54,611,4,2,3.488,1,0,Car,0
+CUST0302,44,Other,High School,Employed,18895,40,46290,48,17.02,651,1,3,29.398,1,1,Personal,0
+CUST0303,39,Other,Bachelor,Unemployed,68159,56,39792,24,5.6,599,7,0,7.006,0,1,Personal,1
+CUST0304,29,Female,Bachelor,Employed,42182,1,2774,24,12.24,716,5,0,0.789,1,0,Education,0
+CUST0305,61,Other,Bachelor,Employed,44580,385,26399,36,21.93,687,5,0,7.106,0,0,Home,0
+CUST0306,49,Female,Master,Employed,96916,76,32997,12,8.1,310,11,1,4.086,1,1,Education,1
+CUST0307,57,Female,Master,Employed,91951,110,18665,48,21.62,674,2,0,2.436,1,1,Education,0
+CUST0308,38,Other,Bachelor,Employed,45559,89,46537,60,8.56,511,3,5,12.258,1,1,Education,1
+CUST0309,54,Other,Bachelor,Self-Employed,68923,146,32392,24,22.21,577,11,2,5.64,1,1,Medical,0
+CUST0310,26,Male,High School,Employed,25233,20,22766,36,18.99,560,8,2,10.827,1,1,Personal,1
+CUST0311,33,Female,Master,Employed,83505,20,15800,24,12.6,715,2,0,2.271,1,0,Home,0
+CUST0312,28,Other,Bachelor,Employed,50764,49,22274,24,9.55,610,3,1,5.265,0,0,Home,1
+CUST0313,44,Other,Master,Employed,26947,139,37949,48,7.26,680,12,1,16.899,1,1,Business,0
+CUST0314,44,Female,Bachelor,Employed,48405,45,30957,36,11.96,634,1,1,7.674,0,1,Education,0
+CUST0315,56,Female,High School,Unemployed,40608,4,30209,36,16.68,602,1,1,8.927,0,1,Business,1
+CUST0316,63,Other,Bachelor,Employed,63317,134,7191,48,17.26,461,10,2,1.363,1,1,Medical,0
+CUST0317,56,Male,Master,Employed,89875,148,9232,48,17.1,589,5,2,1.233,1,0,Education,1
+CUST0318,23,Female,High School,Employed,49283,4,10194,48,19.33,646,8,0,2.482,1,1,Personal,0
+CUST0319,51,Female,Bachelor,Employed,79158,74,5672,36,20.32,720,2,1,0.86,0,0,Education,0
+CUST0320,67,Female,High School,Self-Employed,28403,226,18198,12,8.56,635,11,5,7.688,1,1,Medical,1
+CUST0321,42,Male,High School,Self-Employed,31665,31,18601,48,17.53,513,4,0,7.049,0,0,Home,0
+CUST0322,32,Male,Master,Employed,68537,50,17931,12,24.26,506,12,1,3.14,1,0,Car,0
+CUST0323,53,Male,High School,Self-Employed,56715,320,5935,12,11.75,496,3,2,1.256,0,0,Personal,0
+CUST0324,63,Other,Master,Part-Time,105937,224,14646,12,18.56,606,1,0,1.659,1,1,Business,0
+CUST0325,53,Female,High School,Employed,24519,140,41235,60,7.77,772,9,0,20.181,1,1,Business,0
+CUST0326,54,Other,Bachelor,Employed,65136,9,42614,36,20.33,651,11,5,7.851,1,0,Business,1
+CUST0327,53,Male,Master,Employed,77649,164,9239,12,15.17,740,2,0,1.428,0,0,Home,0
+CUST0328,24,Other,Bachelor,Part-Time,63892,21,34106,60,17.23,613,4,1,6.406,0,0,Car,0
+CUST0329,53,Male,PhD,Part-Time,71536,184,38570,48,21.27,668,12,0,6.47,1,0,Medical,0
+CUST0330,35,Other,PhD,Employed,100445,59,36842,48,8.36,565,11,4,4.401,1,0,Medical,1
+CUST0331,44,Other,Bachelor,Self-Employed,51902,92,38042,48,14.8,660,11,0,8.795,1,1,Education,0
+CUST0332,45,Male,Bachelor,Self-Employed,57311,165,41872,24,15.99,678,12,0,8.767,1,1,Personal,0
+CUST0333,68,Other,High School,Employed,36287,154,2430,36,24.58,645,4,3,0.804,0,1,Business,0
+CUST0334,31,Male,High School,Employed,25674,19,11070,36,11.99,576,5,0,5.174,1,0,Medical,1
+CUST0335,68,Female,Bachelor,Employed,27033,359,39763,12,16.64,655,5,0,17.651,1,0,Home,0
+CUST0336,48,Other,PhD,Employed,151395,116,44780,60,23.44,545,1,0,3.549,0,1,Business,0
+CUST0337,31,Male,Bachelor,Self-Employed,70399,50,31203,60,16.24,762,2,0,5.319,1,1,Car,0
+CUST0338,25,Other,Bachelor,Employed,72124,25,34887,48,20.29,676,9,0,5.805,1,0,Business,0
+CUST0339,55,Other,High School,Employed,33183,294,7871,12,18.2,552,7,0,2.846,0,1,Education,0
+CUST0340,32,Other,PhD,Self-Employed,70955,102,30980,60,7.47,817,4,1,5.239,0,0,Home,0
+CUST0341,25,Male,High School,Self-Employed,41065,18,2900,36,18.65,791,2,0,0.847,1,0,Education,0
+CUST0342,56,Female,Bachelor,Employed,48013,247,42831,24,18.68,592,11,1,10.705,1,0,Home,0
+CUST0343,34,Female,Master,Self-Employed,110250,2,6364,48,17.97,687,11,3,0.693,1,0,Home,0
+CUST0344,36,Other,PhD,Employed,80535,25,22673,48,22.18,577,9,5,3.378,0,0,Car,1
+CUST0345,41,Male,Bachelor,Employed,65381,90,25290,36,9.32,716,9,0,4.642,0,1,Personal,0
+CUST0346,36,Male,High School,Part-Time,25286,168,10995,12,19.39,490,11,1,5.218,1,0,Business,1
+CUST0347,49,Other,PhD,Part-Time,93573,105,44760,24,16.35,749,11,2,5.74,0,1,Medical,0
+CUST0348,49,Male,PhD,Unemployed,74148,74,45006,60,23.21,587,12,0,7.284,1,0,Medical,1
+CUST0349,42,Other,Master,Employed,63181,239,43736,36,7.6,697,4,0,8.307,0,0,Business,0
+CUST0350,36,Female,Bachelor,Employed,76656,6,25544,12,18.54,523,10,0,3.999,1,0,Personal,1
+CUST0351,52,Female,High School,Employed,45327,7,19685,48,9.04,674,11,5,5.211,0,0,Car,0
+CUST0352,42,Female,Master,Part-Time,64368,109,28533,12,16.9,711,7,1,5.319,0,0,Personal,0
+CUST0353,24,Female,Master,Employed,24779,1,38549,48,15.03,572,11,5,18.669,0,1,Personal,1
+CUST0354,40,Other,Bachelor,Employed,41399,156,5574,60,22.93,499,2,2,1.616,0,0,Business,1
+CUST0355,56,Male,High School,Employed,27214,302,48703,24,22.5,659,2,0,21.476,0,0,Home,0
+CUST0356,27,Male,Bachelor,Employed,38212,50,35532,60,23.87,569,3,4,11.158,0,0,Car,1
+CUST0357,67,Female,High School,Employed,29466,147,43055,24,6.9,387,3,5,17.534,0,1,Home,1
+CUST0358,22,Male,Bachelor,Employed,58253,0,40591,48,13.76,513,1,0,8.362,1,0,Home,1
+CUST0359,31,Other,High School,Employed,33255,73,41536,36,11.25,660,2,0,14.988,1,0,Car,0
+CUST0360,66,Other,Bachelor,Part-Time,78830,90,31841,60,11.85,806,6,0,4.847,1,0,Personal,0
+CUST0361,26,Other,Bachelor,Employed,54039,33,29116,60,8.78,564,4,1,6.466,0,0,Personal,0
+CUST0362,67,Other,Bachelor,Self-Employed,26682,162,19017,60,16.23,476,10,1,8.553,1,1,Car,0
+CUST0363,36,Other,Master,Unemployed,86517,160,9728,24,20.81,640,7,0,1.349,1,1,Business,1
+CUST0364,66,Female,Bachelor,Part-Time,78166,157,21679,60,15.72,645,6,0,3.328,0,0,Car,0
+CUST0365,43,Male,PhD,Employed,102694,34,33555,24,17.29,644,9,3,3.921,1,1,Medical,1
+CUST0366,68,Female,Bachelor,Employed,47476,9,15648,60,18.48,704,6,0,3.955,0,1,Home,0
+CUST0367,46,Female,Bachelor,Part-Time,45002,59,22203,36,18.98,597,5,0,5.921,1,0,Education,0
+CUST0368,55,Other,Bachelor,Employed,47191,19,15244,12,13.55,753,9,0,3.876,1,1,Medical,0
+CUST0369,41,Male,Master,Employed,108390,132,46349,24,8.69,505,1,0,5.131,0,0,Education,0
+CUST0370,27,Other,Bachelor,Part-Time,40027,6,36116,36,4.96,647,4,0,10.827,0,1,Education,0
+CUST0371,42,Male,Master,Self-Employed,80297,29,2999,60,15.92,697,2,0,0.448,1,1,Education,0
+CUST0372,58,Female,High School,Employed,26960,313,24199,60,13.55,717,11,0,10.771,1,0,Home,0
+CUST0373,47,Male,High School,Employed,19295,228,42390,36,10.87,535,4,2,26.363,0,1,Business,1
+CUST0374,66,Other,Bachelor,Employed,72392,350,44232,48,14.1,692,10,0,7.332,1,1,Car,0
+CUST0375,64,Other,Bachelor,Part-Time,50410,33,33151,12,11.67,743,8,3,7.892,1,1,Business,0
+CUST0376,67,Male,Master,Employed,88857,332,6648,36,15.37,556,10,0,0.898,0,1,Personal,1
+CUST0377,43,Other,High School,Self-Employed,18000,145,24426,60,18.66,757,3,1,16.284,0,1,Home,0
+CUST0378,28,Male,Master,Employed,71675,51,6561,60,6.72,707,7,0,1.098,0,0,Car,0
+CUST0379,59,Female,Master,Self-Employed,93548,76,31686,60,10.45,640,10,1,4.065,0,0,Medical,0
+CUST0380,65,Female,Bachelor,Unemployed,82539,222,49041,36,24.7,520,9,0,7.13,0,1,Home,1
+CUST0381,57,Female,PhD,Employed,39065,56,20494,12,9.3,537,12,1,6.295,1,1,Personal,0
+CUST0382,33,Female,Bachelor,Employed,61955,98,25611,48,7.65,788,3,0,4.961,0,0,Medical,0
+CUST0383,64,Female,Bachelor,Unemployed,75917,212,31886,60,23.48,712,10,0,5.04,1,1,Personal,0
+CUST0384,22,Other,Bachelor,Part-Time,73072,0,48670,60,9.99,757,1,5,7.993,1,1,Home,0
+CUST0385,52,Other,PhD,Employed,105824,143,32470,60,6.1,518,10,0,3.682,1,0,Medical,0
+CUST0386,61,Male,High School,Employed,29432,398,2706,48,13.76,748,6,0,1.103,1,1,Car,0
+CUST0387,66,Female,PhD,Self-Employed,104893,31,43241,48,16.29,512,10,0,4.947,1,0,Education,1
+CUST0388,39,Female,Bachelor,Self-Employed,66528,70,18839,12,19.63,465,12,0,3.398,1,1,Car,0
+CUST0389,66,Other,High School,Employed,29955,43,11507,60,23.55,635,3,3,4.61,1,1,Car,1
+CUST0390,35,Other,Bachelor,Part-Time,65582,13,44091,36,19.91,685,7,0,8.068,1,0,Personal,0
+CUST0391,67,Other,Bachelor,Employed,42794,147,31413,48,18.34,619,9,1,8.809,0,0,Business,0
+CUST0392,61,Female,Master,Part-Time,113414,171,19716,36,20.87,635,8,2,2.086,0,0,Business,1
+CUST0393,65,Female,Bachelor,Employed,37288,34,2783,48,6.49,595,2,1,0.896,1,0,Medical,0
+CUST0394,61,Male,High School,Unemployed,34105,336,16209,60,17.52,626,10,0,5.703,0,0,Medical,1
+CUST0395,38,Female,Bachelor,Self-Employed,72168,70,29982,36,9.75,690,2,0,4.985,0,1,Personal,0
+CUST0396,38,Female,High School,Employed,31842,51,41996,48,8.14,584,7,0,15.827,0,1,Medical,0
+CUST0397,28,Other,High School,Employed,30050,2,34617,24,17.82,468,1,4,13.824,1,1,Car,1
+CUST0398,22,Female,Bachelor,Unemployed,70669,0,33335,48,12.74,614,2,1,5.66,0,1,Medical,0
+CUST0399,29,Male,Bachelor,Unemployed,44127,51,5617,12,11.95,757,6,0,1.528,1,1,Medical,0
+CUST0400,46,Other,Bachelor,Employed,61678,199,8997,36,14.42,720,4,0,1.75,0,0,Medical,0
+CUST0401,37,Male,Bachelor,Employed,45965,136,31445,12,5.26,618,1,0,8.209,0,1,Home,0
+CUST0402,51,Other,PhD,Part-Time,71798,274,11761,60,9.25,786,8,1,1.966,1,0,Car,0
+CUST0403,63,Other,High School,Employed,38520,406,8376,48,16.97,666,10,0,2.609,0,0,Personal,0
+CUST0404,34,Male,Bachelor,Part-Time,48248,102,23249,12,24.41,591,4,2,5.782,0,1,Home,0
+CUST0405,39,Female,High School,Employed,28637,112,17967,60,5.33,520,2,2,7.529,1,0,Home,1
+CUST0406,27,Other,Master,Employed,83199,18,29277,48,18.62,678,9,0,4.223,0,0,Business,0
+CUST0407,24,Other,Bachelor,Self-Employed,53255,9,24796,48,4.59,612,4,0,5.587,0,1,Business,0
+CUST0408,64,Female,High School,Employed,45467,57,11779,48,14.65,761,1,1,3.109,1,0,Personal,0
+CUST0409,43,Other,Bachelor,Part-Time,51483,13,37216,24,7.72,653,1,0,8.675,0,0,Car,0
+CUST0410,48,Other,High School,Self-Employed,35579,166,17077,12,11.15,773,4,0,5.76,0,0,Personal,0
+CUST0411,53,Female,High School,Employed,34314,91,27384,36,7.28,774,12,0,9.576,1,1,Car,0
+CUST0412,25,Female,Bachelor,Employed,73957,29,32053,48,7.99,524,10,0,5.201,0,0,Home,1
+CUST0413,55,Male,Bachelor,Unemployed,34829,142,2950,48,19.52,536,4,0,1.016,1,0,Business,1
+CUST0414,48,Male,PhD,Employed,79677,240,35044,12,13.18,496,12,3,5.278,1,1,Car,1
+CUST0415,57,Female,Master,Self-Employed,70027,183,21384,24,17.71,678,2,0,3.664,1,0,Medical,0
+CUST0416,23,Female,PhD,Employed,74478,2,48080,48,8.27,737,12,1,7.747,0,1,Medical,0
+CUST0417,55,Other,High School,Employed,29602,277,39698,24,20.57,850,2,1,16.093,1,0,Business,0
+CUST0418,46,Male,Bachelor,Self-Employed,61558,187,26014,24,17.72,604,4,0,5.071,1,0,Business,0
+CUST0419,63,Male,Bachelor,Unemployed,25884,107,16774,36,11.7,518,5,1,7.777,1,1,Home,1
+CUST0420,54,Male,Bachelor,Employed,69406,363,36858,60,22.85,548,11,4,6.373,0,0,Personal,1
+CUST0421,27,Female,Bachelor,Employed,63604,10,20084,12,18.72,629,8,0,3.789,0,0,Education,0
+CUST0422,30,Female,Bachelor,Employed,54559,94,44250,12,10.45,827,4,3,9.733,1,1,Business,0
+CUST0423,63,Male,Bachelor,Employed,39341,280,31180,48,10.7,554,3,3,9.511,1,0,Education,0
+CUST0424,25,Male,High School,Employed,34101,10,42542,24,19.02,580,12,1,14.97,0,0,Car,1
+CUST0425,24,Female,PhD,Employed,85380,6,38863,12,18.08,674,6,0,5.462,1,0,Business,0
+CUST0426,53,Other,Master,Unemployed,85184,163,12227,12,24.29,525,11,2,1.722,1,1,Business,1
+CUST0427,31,Female,Master,Self-Employed,98464,14,49948,48,22.86,597,3,1,6.087,0,1,Home,0
+CUST0428,44,Female,High School,Employed,28200,99,40235,60,9.03,714,1,0,17.121,1,0,Business,0
+CUST0429,34,Female,Bachelor,Self-Employed,53088,92,28054,24,19.11,637,7,0,6.341,1,0,Education,0
+CUST0430,57,Other,High School,Self-Employed,49720,227,29237,48,10.39,730,7,2,7.056,1,0,Business,0
+CUST0431,27,Other,High School,Employed,41739,21,6332,60,19.92,631,2,0,1.82,1,1,Car,0
+CUST0432,30,Male,High School,Part-Time,34443,37,38298,48,5.36,727,5,0,13.343,1,0,Home,0
+CUST0433,31,Female,Bachelor,Unemployed,66281,83,45641,36,13.01,542,8,4,8.263,0,0,Home,1
+CUST0434,60,Other,Master,Employed,84376,289,30578,36,17.31,487,2,0,4.349,0,1,Car,1
+CUST0435,25,Male,High School,Employed,29375,3,19869,36,13.06,551,6,0,8.117,1,0,Business,1
+CUST0436,28,Other,Bachelor,Employed,48823,41,22723,36,10.04,609,9,1,5.585,0,0,Car,0
+CUST0437,40,Male,Bachelor,Employed,40865,26,16278,24,14.77,825,4,2,4.78,0,1,Personal,0
+CUST0438,23,Male,Bachelor,Employed,63142,5,11110,48,22.65,501,6,0,2.111,1,0,Medical,0
+CUST0439,36,Male,High School,Self-Employed,29397,53,10533,12,13.17,560,2,0,4.3,1,1,Home,1
+CUST0440,54,Other,Bachelor,Employed,74132,129,4836,12,10.65,684,2,4,0.783,0,0,Car,0
+CUST0441,44,Male,High School,Employed,31845,178,25081,24,21.94,559,12,1,9.451,0,0,Business,0
+CUST0442,40,Male,High School,Self-Employed,29713,1,49536,12,23.35,811,8,0,20.006,0,1,Medical,0
+CUST0443,33,Female,Master,Unemployed,60114,104,9395,36,7.02,695,2,1,1.875,1,1,Medical,0
+CUST0444,42,Female,Bachelor,Employed,56533,116,41347,36,18.52,678,7,0,8.777,1,0,Home,0
+CUST0445,65,Other,Bachelor,Employed,48067,202,30708,60,17.93,507,2,0,7.666,1,1,Medical,1
+CUST0446,32,Female,High School,Unemployed,30151,43,15124,60,21.72,579,7,2,6.019,1,1,Medical,1
+CUST0447,44,Male,Bachelor,Self-Employed,44226,142,11658,48,6.7,705,5,0,3.163,0,0,Home,0
+CUST0448,53,Female,Bachelor,Unemployed,30769,195,41622,36,7.62,607,2,1,16.233,1,1,Car,1
+CUST0449,64,Female,Bachelor,Employed,32528,276,37823,12,23.93,592,1,5,13.953,0,1,Personal,1
+CUST0450,24,Other,High School,Employed,25095,24,21860,24,14.53,745,8,2,10.453,1,1,Personal,0
+CUST0451,32,Female,Bachelor,Employed,19461,78,46334,36,20.14,648,5,0,28.57,0,0,Car,0
+CUST0452,23,Male,Master,Self-Employed,109441,6,8379,48,11.54,581,11,0,0.919,0,1,Business,0
+CUST0453,66,Other,High School,Employed,31165,166,4449,48,17.92,657,7,1,1.713,1,1,Home,0
+CUST0454,42,Female,Bachelor,Employed,58581,146,8404,48,6.54,598,9,2,1.722,1,0,Business,0
+CUST0455,45,Other,PhD,Employed,60994,38,37116,24,10.36,436,1,0,7.302,1,0,Business,1
+CUST0456,59,Other,High School,Employed,28676,34,39121,60,14.2,684,11,3,16.371,1,1,Medical,1
+CUST0457,42,Other,High School,Employed,25782,195,37885,24,22.47,562,11,2,17.633,0,1,Car,1
+CUST0458,51,Female,Bachelor,Self-Employed,52370,314,30424,60,19.32,702,8,0,6.971,0,1,Personal,0
+CUST0459,42,Male,Master,Part-Time,55578,68,20811,24,9.73,495,10,0,4.493,0,0,Car,1
+CUST0460,41,Female,Bachelor,Employed,62484,111,29657,12,8.62,636,5,1,5.696,0,0,Medical,0
+CUST0461,23,Other,High School,Part-Time,29369,1,28673,36,18.2,717,2,0,11.716,0,0,Home,0
+CUST0462,55,Male,Bachelor,Employed,24452,396,36423,36,14.63,754,6,0,17.875,1,0,Personal,0
+CUST0463,31,Other,High School,Employed,30740,75,5665,48,15.38,741,12,4,2.211,1,1,Personal,0
+CUST0464,31,Other,Bachelor,Self-Employed,69693,105,22196,12,17.67,662,12,1,3.822,0,0,Education,0
+CUST0465,46,Male,Bachelor,Unemployed,40731,62,37055,24,22.0,778,7,0,10.917,1,1,Education,1
+CUST0466,41,Other,High School,Part-Time,26761,112,43376,36,22.44,650,1,0,19.45,0,1,Personal,0
+CUST0467,48,Male,PhD,Employed,55596,51,12508,36,14.83,744,6,0,2.7,1,1,Medical,0
+CUST0468,33,Female,Bachelor,Part-Time,37293,34,2201,48,8.58,595,2,0,0.708,0,1,Education,1
+CUST0469,52,Male,Master,Employed,94712,167,20467,24,6.22,758,6,0,2.593,1,0,Home,0
+CUST0470,62,Male,High School,Employed,26636,236,14993,36,18.81,689,7,1,6.755,0,0,Education,0
+CUST0471,58,Female,High School,Self-Employed,18000,232,46145,48,6.92,729,12,0,30.763,1,1,Medical,0
+CUST0472,35,Female,Bachelor,Unemployed,68398,72,49625,24,13.03,592,5,5,8.706,0,1,Car,1
+CUST0473,59,Male,Bachelor,Employed,65736,165,47417,48,18.51,643,12,0,8.656,1,1,Home,0
+CUST0474,37,Female,Bachelor,Employed,56337,155,45960,60,18.98,643,9,1,9.79,1,1,Medical,0
+CUST0475,30,Male,PhD,Employed,91318,64,34298,36,22.41,602,3,0,4.507,1,0,Education,0
+CUST0476,53,Other,Master,Part-Time,134384,184,30186,36,22.92,624,5,1,2.695,1,0,Education,1
+CUST0477,53,Other,Master,Employed,100096,225,5487,24,7.53,523,4,0,0.658,1,1,Car,0
+CUST0478,53,Male,High School,Employed,32814,363,38756,48,13.84,761,3,0,14.173,0,0,Education,0
+CUST0479,32,Other,Master,Part-Time,54115,27,40243,12,15.23,582,10,0,8.924,0,0,Personal,1
+CUST0480,40,Female,Bachelor,Self-Employed,65229,100,26481,60,23.45,709,1,0,4.872,1,1,Medical,0
+CUST0481,60,Other,Bachelor,Employed,77472,231,23293,60,7.14,677,1,2,3.608,1,1,Home,0
+CUST0482,46,Female,High School,Employed,40472,122,28143,12,4.92,665,7,0,8.344,0,0,Education,0
+CUST0483,49,Female,Master,Unemployed,104937,183,45615,12,21.47,562,9,0,5.216,1,1,Personal,1
+CUST0484,49,Other,Master,Self-Employed,73702,222,43332,48,6.4,371,11,0,7.055,0,1,Business,0
+CUST0485,63,Other,Bachelor,Employed,28799,244,21686,24,24.58,723,11,4,9.036,0,1,Education,1
+CUST0486,24,Other,Bachelor,Employed,59709,13,8192,48,17.98,570,5,1,1.646,0,0,Medical,0
+CUST0487,51,Male,High School,Employed,29390,152,22574,60,19.27,665,11,0,9.217,1,1,Car,0
+CUST0488,60,Other,Bachelor,Self-Employed,80068,222,37020,12,4.62,685,8,0,5.548,1,1,Education,0
+CUST0489,61,Male,Bachelor,Self-Employed,52673,154,7743,24,7.26,546,4,0,1.764,0,0,Home,0
+CUST0490,37,Female,Bachelor,Self-Employed,58961,137,14511,12,10.64,529,1,0,2.953,0,1,Personal,1
+CUST0491,23,Other,Master,Employed,90010,6,5337,36,4.66,763,11,3,0.712,1,1,Personal,0
+CUST0492,40,Female,High School,Employed,25849,131,40734,60,23.58,806,4,2,18.91,0,1,Business,0
+CUST0493,57,Female,High School,Part-Time,24140,253,42809,36,13.65,696,7,0,21.28,1,0,Personal,0
+CUST0494,59,Other,Master,Employed,91252,308,48871,48,7.18,597,7,3,6.427,1,1,Car,1
+CUST0495,35,Male,Bachelor,Self-Employed,54204,51,12244,60,14.54,594,7,4,2.711,1,1,Car,0
+CUST0496,44,Female,Master,Employed,54788,81,13450,60,5.15,737,10,0,2.946,0,1,Education,0
+CUST0497,44,Other,Master,Self-Employed,41125,263,41602,12,18.91,565,8,2,12.139,0,0,Business,1
+CUST0498,57,Other,High School,Employed,18000,322,9737,24,23.08,685,8,2,6.491,1,0,Car,0
+CUST0499,45,Female,Bachelor,Employed,67053,212,2431,24,21.53,552,8,0,0.435,0,0,Education,0
+CUST0500,62,Male,Bachelor,Employed,43342,385,36711,48,20.56,708,7,3,10.164,1,0,Personal,0
+CUST0501,22,Other,Master,Employed,98877,0,12769,48,5.75,678,1,1,1.55,0,0,Medical,0
+CUST0502,40,Other,Bachelor,Part-Time,29779,179,38281,36,19.22,604,5,4,15.426,0,1,Personal,1
+CUST0503,35,Other,Master,Self-Employed,65682,88,44516,48,20.32,566,5,0,8.133,1,1,Medical,0
+CUST0504,56,Female,Bachelor,Employed,50489,282,22463,60,11.45,625,9,1,5.339,0,1,Medical,0
+CUST0505,54,Male,High School,Employed,24157,181,10114,12,19.93,740,2,0,5.024,0,1,Education,0
+CUST0506,58,Other,Master,Unemployed,24123,340,36949,60,9.27,594,12,1,18.38,0,1,Business,1
+CUST0507,37,Female,High School,Employed,36905,116,8421,24,19.02,802,7,0,2.738,0,1,Car,0
+CUST0508,65,Male,Bachelor,Employed,63703,265,27872,36,16.42,419,12,4,5.25,1,1,Car,0
+CUST0509,54,Female,High School,Self-Employed,40586,270,9737,24,13.79,753,1,2,2.879,1,0,Business,0
+CUST0510,40,Female,High School,Employed,36910,95,21983,36,10.69,463,3,2,7.147,1,0,Education,1
+CUST0511,35,Other,High School,Self-Employed,42074,17,4928,48,14.32,641,5,1,1.406,1,1,Personal,0
+CUST0512,30,Female,Bachelor,Employed,51304,57,45726,48,7.54,634,10,1,10.695,1,1,Car,0
+CUST0513,43,Other,Bachelor,Unemployed,76235,165,7801,24,18.93,536,10,1,1.228,1,0,Medical,1
+CUST0514,56,Male,Bachelor,Employed,76422,291,36193,24,19.81,620,11,4,5.683,0,0,Education,1
+CUST0515,37,Male,Master,Part-Time,74432,136,41770,36,12.7,619,1,0,6.734,0,1,Personal,0
+CUST0516,42,Other,Bachelor,Employed,72637,25,37506,24,10.32,710,3,0,6.196,1,0,Home,0
+CUST0517,42,Other,High School,Self-Employed,30915,36,29054,36,9.76,683,2,0,11.278,0,0,Personal,0
+CUST0518,29,Other,Bachelor,Employed,43702,70,28678,12,14.38,579,1,0,7.875,0,0,Business,1
+CUST0519,30,Male,Bachelor,Employed,75810,26,11330,36,15.52,711,3,2,1.793,1,1,Home,0
+CUST0520,61,Male,Bachelor,Unemployed,23873,0,5943,48,10.08,639,6,3,2.987,0,1,Home,1
+CUST0521,56,Female,Bachelor,Employed,52121,71,49518,60,24.88,671,7,0,11.401,1,1,Medical,0
+CUST0522,39,Male,High School,Unemployed,30399,87,15803,48,24.06,535,3,1,6.238,0,1,Home,1
+CUST0523,65,Male,High School,Employed,28941,201,37266,12,20.56,530,11,1,15.452,0,1,Medical,0
+CUST0524,60,Other,Bachelor,Employed,79176,393,47680,12,7.05,595,1,0,7.226,0,1,Medical,0
+CUST0525,44,Other,High School,Part-Time,21731,113,17352,48,24.23,511,1,0,9.582,0,0,Car,1
+CUST0526,58,Other,Bachelor,Employed,75790,99,45243,60,18.21,590,10,0,7.163,0,0,Education,0
+CUST0527,36,Other,Master,Self-Employed,75944,5,47415,60,17.03,831,11,1,7.492,1,0,Personal,0
+CUST0528,42,Female,Bachelor,Unemployed,39393,70,9976,60,14.02,531,12,0,3.039,1,1,Business,1
+CUST0529,42,Other,High School,Employed,41073,6,16786,48,24.04,704,4,0,4.904,1,1,Home,0
+CUST0530,49,Other,Master,Employed,78546,320,23908,36,9.54,390,1,3,3.653,0,0,Business,1
+CUST0531,50,Male,Master,Self-Employed,74375,31,4185,48,10.89,619,12,0,0.675,0,0,Personal,0
+CUST0532,26,Female,High School,Employed,42641,3,21327,48,12.69,563,10,2,6.002,0,1,Personal,0
+CUST0533,49,Male,Master,Self-Employed,56225,13,31758,60,11.2,839,4,0,6.778,0,0,Business,0
+CUST0534,54,Other,Bachelor,Employed,53745,371,42688,48,8.29,659,3,0,9.531,1,1,Education,0
+CUST0535,56,Female,Master,Employed,75229,188,2529,60,16.46,725,11,0,0.403,0,0,Personal,0
+CUST0536,34,Male,Master,Employed,94910,121,47533,48,16.74,575,6,1,6.01,1,1,Car,1
+CUST0537,51,Female,Master,Part-Time,35945,327,16616,24,14.02,645,4,0,5.547,1,1,Car,1
+CUST0538,45,Female,High School,Employed,54206,58,11332,36,13.48,490,6,0,2.509,0,0,Car,0
+CUST0539,33,Other,High School,Employed,39106,62,13700,24,4.94,812,5,4,4.204,0,0,Personal,0
+CUST0540,35,Male,Bachelor,Employed,51160,95,45313,24,23.7,850,7,3,10.629,0,0,Car,0
+CUST0541,34,Male,High School,Employed,24382,62,5027,60,16.48,736,9,0,2.474,0,1,Car,0
+CUST0542,30,Female,Master,Unemployed,69923,62,15712,12,20.51,675,3,1,2.696,1,1,Business,0
+CUST0543,33,Male,Bachelor,Employed,50143,126,33048,36,16.36,490,11,4,7.909,0,0,Car,1
+CUST0544,35,Male,Bachelor,Part-Time,61142,146,12302,36,9.69,783,5,0,2.414,1,0,Business,0
+CUST0545,51,Male,Bachelor,Employed,43286,188,34606,36,10.07,672,1,0,9.594,0,1,Medical,0
+CUST0546,54,Other,Bachelor,Self-Employed,62655,141,16925,12,6.92,559,6,0,3.242,1,1,Education,1
+CUST0547,65,Female,Master,Employed,73135,385,48935,60,23.11,606,1,2,8.029,1,1,Personal,0
+CUST0548,22,Male,Bachelor,Employed,36028,0,28050,24,9.13,639,9,1,9.343,1,1,Education,0
+CUST0549,42,Male,Master,Employed,101915,112,31489,60,5.11,602,3,1,3.708,0,1,Medical,0
+CUST0550,44,Other,Bachelor,Employed,58026,206,47253,60,10.61,529,1,4,9.772,0,1,Business,1
+CUST0551,60,Male,Master,Employed,66449,200,6175,60,12.38,702,8,0,1.115,1,1,Home,0
+CUST0552,24,Female,Master,Self-Employed,97853,0,14235,24,5.92,719,4,0,1.746,0,1,Home,0
+CUST0553,55,Female,High School,Employed,38723,56,10463,60,13.04,586,12,0,3.242,0,0,Car,0
+CUST0554,52,Other,High School,Employed,37199,158,40501,24,14.75,608,1,5,13.065,1,0,Personal,0
+CUST0555,37,Male,Bachelor,Part-Time,69684,147,4561,12,10.37,563,8,0,0.785,1,1,Business,1
+CUST0556,61,Other,Master,Employed,88562,337,14022,60,6.45,630,3,0,1.9,1,0,Medical,0
+CUST0557,68,Male,Master,Part-Time,52529,62,26165,12,19.91,729,9,2,5.977,1,1,Personal,0
+CUST0558,51,Other,High School,Self-Employed,41500,345,32271,48,11.51,586,1,0,9.331,0,0,Education,0
+CUST0559,51,Female,Bachelor,Employed,47694,224,11191,48,21.24,617,3,0,2.816,0,0,Car,0
+CUST0560,32,Other,High School,Self-Employed,41254,86,19907,24,13.49,709,11,1,5.791,1,0,Medical,0
+CUST0561,63,Male,Bachelor,Self-Employed,75730,227,5435,60,4.6,732,7,2,0.861,0,1,Car,0
+CUST0562,22,Other,Bachelor,Employed,66242,0,16455,12,20.76,669,3,0,2.981,0,1,Education,0
+CUST0563,62,Female,High School,Employed,18000,61,17231,24,6.66,578,6,0,11.487,1,1,Home,1
+CUST0564,64,Male,Master,Self-Employed,96060,188,4879,12,22.56,495,8,5,0.609,0,0,Education,1
+CUST0565,60,Female,Bachelor,Self-Employed,32790,394,47463,24,11.27,786,11,2,17.37,1,1,Home,0
+CUST0566,50,Male,Bachelor,Self-Employed,61538,119,34992,60,18.87,660,2,0,6.823,1,0,Business,0
+CUST0567,25,Female,High School,Employed,34306,2,17601,60,24.67,732,8,2,6.157,1,0,Education,0
+CUST0568,55,Female,Master,Employed,54801,147,3552,24,21.78,603,9,0,0.778,0,0,Business,0
+CUST0569,55,Other,Bachelor,Employed,87261,35,14613,12,17.44,647,3,4,2.01,0,0,Car,0
+CUST0570,35,Female,High School,Employed,27695,119,22412,24,19.22,641,4,0,9.711,1,0,Education,1
+CUST0571,27,Female,PhD,Employed,87693,27,35114,60,19.49,718,3,2,4.805,1,0,Personal,0
+CUST0572,41,Other,Bachelor,Employed,38585,186,13514,36,12.26,611,9,1,4.203,0,1,Car,0
+CUST0573,52,Female,High School,Part-Time,47906,191,34207,48,23.38,645,7,5,8.569,1,1,Personal,1
+CUST0574,48,Male,Master,Unemployed,60841,63,27219,60,7.81,660,12,0,5.369,1,1,Medical,0
+CUST0575,63,Male,Bachelor,Employed,58333,416,25685,12,18.73,753,11,0,5.284,1,0,Education,0
+CUST0576,32,Female,High School,Self-Employed,20206,82,48636,48,12.61,455,9,4,28.884,1,0,Personal,1
+CUST0577,66,Other,Bachelor,Unemployed,50253,157,28975,12,6.73,557,10,2,6.919,1,0,Education,1
+CUST0578,66,Female,Bachelor,Unemployed,81310,417,34225,12,6.48,655,7,1,5.051,1,0,Car,0
+CUST0579,33,Female,Master,Employed,102693,115,39164,24,8.29,850,1,2,4.576,0,1,Personal,0
+CUST0580,62,Female,High School,Employed,23992,193,10171,36,5.81,711,8,1,5.087,0,0,Home,0
+CUST0581,22,Female,Bachelor,Part-Time,67641,0,26619,60,15.11,657,5,4,4.722,1,1,Business,0
+CUST0582,43,Female,PhD,Part-Time,145615,240,25672,48,12.22,727,6,2,2.116,0,1,Medical,0
+CUST0583,68,Male,Master,Unemployed,92361,271,20315,24,12.02,648,10,1,2.639,1,1,Medical,1
+CUST0584,42,Female,High School,Employed,32224,11,23333,48,9.26,476,2,0,8.689,1,0,Medical,1
+CUST0585,40,Female,Bachelor,Self-Employed,78271,200,48967,60,5.15,490,8,2,7.507,1,1,Car,1
+CUST0586,56,Female,High School,Employed,29442,385,45237,12,6.65,664,6,4,18.438,1,0,Medical,0
+CUST0587,64,Female,Bachelor,Part-Time,63604,273,43520,48,6.35,677,12,0,8.211,0,0,Medical,0
+CUST0588,68,Female,Bachelor,Self-Employed,74094,287,30636,24,9.06,672,2,0,4.962,0,0,Business,0
+CUST0589,30,Male,Master,Unemployed,80947,7,40670,60,8.37,637,7,5,6.029,1,1,Medical,1
+CUST0590,36,Other,High School,Employed,30656,117,22704,24,21.15,619,11,0,8.887,1,0,Medical,0
+CUST0591,66,Male,High School,Employed,19781,140,48302,60,14.26,637,4,0,29.302,1,0,Education,0
+CUST0592,68,Female,PhD,Employed,93306,376,5444,24,21.98,628,11,4,0.7,0,0,Business,0
+CUST0593,43,Female,Bachelor,Employed,49631,18,36592,36,10.26,721,4,2,8.847,1,0,Car,0
+CUST0594,25,Other,Master,Self-Employed,54986,29,44902,24,16.27,532,3,0,9.799,0,0,Education,1
+CUST0595,58,Male,High School,Part-Time,36897,218,46528,24,23.39,564,2,0,15.132,1,0,Home,1
+CUST0596,59,Other,Bachelor,Employed,55402,369,28476,24,5.19,646,12,1,6.168,0,1,Medical,0
+CUST0597,64,Other,High School,Employed,35261,323,44807,48,11.99,550,2,0,15.249,0,1,Medical,1
+CUST0598,59,Female,Bachelor,Employed,52370,140,47464,12,20.7,688,11,2,10.876,1,0,Home,0
+CUST0599,26,Other,Master,Part-Time,61676,44,3294,48,15.84,616,9,2,0.641,1,0,Business,0
+CUST0600,63,Other,High School,Self-Employed,28414,337,9689,24,22.08,636,8,2,4.092,0,0,Car,0
+CUST0601,35,Male,Bachelor,Employed,56970,21,10173,60,10.59,807,9,0,2.143,0,0,Education,0
+CUST0602,40,Male,Bachelor,Employed,52179,147,34141,36,15.16,732,9,1,7.852,0,0,Car,0
+CUST0603,34,Female,High School,Part-Time,32931,141,16158,60,11.82,692,3,2,5.888,1,0,Business,0
+CUST0604,32,Other,Bachelor,Employed,78956,32,46336,48,23.68,681,11,2,7.042,0,1,Business,0
+CUST0605,63,Male,Master,Self-Employed,71640,403,30418,48,5.03,667,10,0,5.095,1,0,Business,0
+CUST0606,43,Male,Bachelor,Employed,44438,85,19907,24,22.22,642,7,5,5.376,0,1,Home,1
+CUST0607,33,Female,Bachelor,Part-Time,35697,24,36665,36,18.79,543,5,1,12.325,0,0,Car,1
+CUST0608,44,Other,Master,Self-Employed,75282,206,33251,60,7.1,759,3,1,5.3,0,1,Business,0
+CUST0609,39,Female,High School,Self-Employed,44383,63,46447,60,13.03,614,8,0,12.558,1,1,Business,0
+CUST0610,67,Male,Master,Part-Time,103375,156,43656,12,23.83,567,2,1,5.068,0,0,Home,1
+CUST0611,58,Other,High School,Self-Employed,23212,5,29786,60,23.52,601,3,0,15.399,0,1,Home,1
+CUST0612,22,Female,Master,Self-Employed,117981,0,18005,60,18.46,745,3,1,1.831,0,0,Home,0
+CUST0613,30,Female,Bachelor,Unemployed,45479,47,9420,36,23.15,685,4,3,2.486,0,1,Education,1
+CUST0614,62,Other,Bachelor,Employed,67664,156,44137,60,21.34,748,10,3,7.828,0,1,Home,0
+CUST0615,51,Male,Bachelor,Employed,88462,95,28349,36,4.68,646,7,0,3.846,0,0,Personal,0
+CUST0616,64,Female,Bachelor,Employed,57113,191,21613,36,13.24,715,2,5,4.541,1,0,Car,1
+CUST0617,49,Male,High School,Part-Time,31018,145,4638,24,12.55,593,12,0,1.794,0,0,Medical,1
+CUST0618,39,Male,High School,Employed,25538,126,46678,24,11.13,658,9,2,21.933,1,0,Home,0
+CUST0619,23,Female,High School,Employed,44105,0,46453,36,13.27,653,10,2,12.639,1,1,Education,0
+CUST0620,37,Other,Bachelor,Self-Employed,60165,47,18349,36,20.14,850,4,1,3.66,1,0,Personal,0
+CUST0621,28,Male,Master,Employed,108889,19,17032,12,7.2,850,1,0,1.877,0,0,Personal,0
+CUST0622,25,Female,Bachelor,Employed,53769,14,16534,36,13.19,737,1,0,3.69,1,1,Education,0
+CUST0623,67,Female,Bachelor,Employed,62004,26,45281,36,8.82,648,8,0,8.763,0,1,Car,0
+CUST0624,41,Female,High School,Self-Employed,29573,174,38160,24,11.26,634,10,1,15.484,1,0,Medical,0
+CUST0625,35,Male,Bachelor,Employed,74038,154,9887,12,16.47,727,11,2,1.602,0,1,Home,0
+CUST0626,41,Other,Master,Unemployed,71819,51,36967,24,5.39,685,5,3,6.177,1,1,Personal,1
+CUST0627,67,Male,High School,Employed,22312,257,3433,24,16.72,653,12,5,1.846,1,0,Business,1
+CUST0628,47,Male,Bachelor,Employed,36553,262,6914,24,13.43,511,7,0,2.27,1,0,Car,0
+CUST0629,32,Female,Bachelor,Employed,91265,65,31847,60,18.94,652,9,0,4.187,0,1,Medical,0
+CUST0630,24,Other,Bachelor,Employed,55140,20,11708,36,23.42,617,11,5,2.548,0,0,Home,1
+CUST0631,44,Male,Bachelor,Unemployed,42159,135,49322,24,12.83,850,10,0,14.039,0,0,Education,0
+CUST0632,38,Female,PhD,Employed,87891,149,8975,48,23.79,633,10,1,1.225,1,0,Education,1
+CUST0633,35,Male,Bachelor,Part-Time,58153,59,49828,48,12.02,581,8,0,10.282,0,1,Car,0
+CUST0634,68,Female,High School,Employed,40613,158,12677,24,21.18,615,3,0,3.746,0,1,Medical,0
+CUST0635,28,Male,Master,Employed,82008,12,26764,48,4.92,624,1,2,3.916,0,0,Car,0
+CUST0636,60,Female,High School,Unemployed,50782,405,8969,60,19.52,557,4,0,2.119,1,0,Education,1
+CUST0637,52,Male,High School,Employed,27995,63,3389,12,6.6,508,5,0,1.453,1,0,Home,1
+CUST0638,31,Male,Bachelor,Employed,60299,87,27214,12,14.53,711,5,0,5.416,1,0,Education,0
+CUST0639,24,Female,Bachelor,Employed,38740,21,29868,24,22.72,614,11,0,9.252,1,1,Home,0
+CUST0640,38,Other,Master,Self-Employed,66837,19,2142,24,20.37,674,8,2,0.385,1,0,Home,0
+CUST0641,49,Other,PhD,Employed,185130,93,27232,36,11.01,814,7,0,1.765,1,1,Car,0
+CUST0642,57,Female,Bachelor,Employed,51259,272,37141,24,12.35,548,10,2,8.695,0,0,Car,0
+CUST0643,22,Male,High School,Part-Time,26115,0,9219,12,23.09,726,6,3,4.236,0,1,Personal,1
+CUST0644,48,Other,High School,Part-Time,23288,28,11030,12,24.13,612,1,1,5.684,1,1,Home,0
+CUST0645,28,Female,Bachelor,Employed,73307,3,11626,36,7.38,467,4,0,1.903,1,0,Car,0
+CUST0646,66,Male,PhD,Employed,64371,369,24107,48,20.44,612,3,0,4.494,0,0,Business,0
+CUST0647,22,Other,Bachelor,Employed,73122,0,39490,60,10.74,604,4,0,6.481,0,1,Home,0
+CUST0648,35,Male,Bachelor,Employed,82779,100,14038,60,16.84,775,8,0,2.035,1,1,Car,0
+CUST0649,45,Male,Bachelor,Employed,62534,171,3838,24,10.26,665,9,0,0.736,0,0,Education,0
+CUST0650,24,Female,High School,Employed,28358,18,39014,12,16.0,647,6,0,16.509,1,0,Education,0
+CUST0651,47,Female,Bachelor,Employed,47486,66,48049,12,11.26,699,12,1,12.142,0,0,Business,0
+CUST0652,24,Male,Bachelor,Employed,62217,14,7161,12,23.94,648,11,1,1.381,0,1,Personal,0
+CUST0653,43,Male,Bachelor,Self-Employed,61854,182,46752,48,9.38,629,10,1,9.07,0,1,Home,0
+CUST0654,57,Male,Master,Part-Time,114365,44,34696,12,13.78,680,2,0,3.641,1,1,Home,0
+CUST0655,33,Female,Master,Employed,138588,113,44617,24,23.67,615,10,0,3.863,1,1,Personal,1
+CUST0656,30,Other,Bachelor,Employed,32680,79,22555,36,6.2,546,11,0,8.282,0,0,Medical,1
+CUST0657,22,Other,High School,Employed,24611,0,16617,48,22.33,731,11,0,8.102,1,1,Medical,0
+CUST0658,27,Female,High School,Employed,26747,59,28014,48,8.57,598,10,0,12.568,1,0,Education,1
+CUST0659,24,Male,Bachelor,Unemployed,64133,18,4052,60,20.29,694,1,4,0.758,1,1,Personal,1
+CUST0660,65,Female,Bachelor,Employed,67725,90,7478,24,5.91,570,12,0,1.325,1,0,Medical,1
+CUST0661,33,Other,Master,Employed,97287,76,12782,24,11.63,586,7,0,1.577,0,1,Education,0
+CUST0662,57,Female,Master,Employed,65687,39,49364,60,17.08,509,12,2,9.018,1,0,Car,1
+CUST0663,31,Other,Bachelor,Employed,63664,33,36124,12,24.66,495,3,1,6.809,0,0,Car,1
+CUST0664,56,Female,Master,Self-Employed,79188,110,24812,24,23.93,769,1,0,3.76,1,0,Education,0
+CUST0665,54,Female,Master,Employed,18000,211,28895,36,11.69,642,9,0,19.263,1,0,Car,0
+CUST0666,60,Male,High School,Employed,34171,145,45227,48,17.44,570,2,5,15.883,0,0,Medical,0
+CUST0667,61,Female,PhD,Employed,109986,278,8534,48,14.77,500,1,1,0.931,1,0,Car,0
+CUST0668,52,Other,PhD,Employed,105680,237,29062,48,4.66,589,5,0,3.3,1,1,Personal,0
+CUST0669,37,Female,High School,Part-Time,33806,95,36010,60,10.98,644,3,4,12.782,1,0,Business,1
+CUST0670,25,Male,Master,Employed,109588,8,43698,48,24.44,739,9,0,4.785,0,0,Medical,0
+CUST0671,54,Other,High School,Employed,21444,133,38235,24,23.85,746,4,0,21.396,0,1,Home,0
+CUST0672,61,Other,Master,Unemployed,70277,40,39473,48,5.02,611,11,1,6.74,1,0,Car,0
+CUST0673,36,Other,Bachelor,Employed,58752,96,19070,12,10.11,813,3,1,3.895,0,0,Personal,0
+CUST0674,38,Female,Master,Employed,89900,126,25684,24,12.47,618,2,0,3.428,0,0,Medical,0
+CUST0675,46,Female,Master,Self-Employed,70423,152,2664,24,17.96,658,11,1,0.454,0,0,Education,0
+CUST0676,56,Male,High School,Employed,33113,130,9968,24,16.86,522,3,0,3.612,1,0,Car,0
+CUST0677,42,Female,High School,Employed,30506,70,33560,24,23.95,591,6,2,13.201,1,1,Medical,0
+CUST0678,34,Female,Bachelor,Employed,71713,71,27744,12,16.41,648,4,4,4.643,1,1,Personal,0
+CUST0679,60,Other,Master,Part-Time,61922,219,15088,60,11.7,544,11,2,2.924,1,0,Home,1
+CUST0680,60,Female,Master,Self-Employed,103048,271,25085,48,5.11,677,3,0,2.921,0,0,Medical,0
+CUST0681,45,Other,High School,Employed,44192,168,16009,48,16.08,649,6,3,4.347,0,1,Education,1
+CUST0682,57,Male,Bachelor,Self-Employed,67869,413,45997,12,16.21,548,7,0,8.133,1,0,Car,0
+CUST0683,53,Other,Bachelor,Unemployed,51431,87,41415,36,16.56,664,4,1,9.663,1,0,Medical,1
+CUST0684,40,Female,High School,Unemployed,30667,9,36961,60,5.3,616,2,3,14.463,1,1,Education,1
+CUST0685,44,Male,Bachelor,Employed,50283,201,21558,48,14.56,766,11,5,5.145,0,1,Business,0
+CUST0686,22,Male,High School,Unemployed,32458,0,16833,24,6.3,610,9,5,6.223,0,1,Home,1
+CUST0687,25,Other,PhD,Employed,91891,24,19688,24,23.37,760,10,0,2.571,0,1,Car,0
+CUST0688,48,Female,Bachelor,Self-Employed,33581,267,36576,24,16.29,495,6,2,13.07,1,0,Home,0
+CUST0689,40,Female,Master,Employed,89819,165,15493,12,6.03,575,8,0,2.07,0,0,Personal,1
+CUST0690,35,Female,Master,Self-Employed,90909,131,22536,36,18.95,531,2,4,2.975,0,1,Personal,1
+CUST0691,61,Other,Bachelor,Part-Time,62446,84,46975,36,23.91,714,10,1,9.027,0,1,Home,0
+CUST0692,51,Female,High School,Employed,32934,338,36792,48,11.68,733,6,0,13.406,0,1,Business,0
+CUST0693,54,Female,Bachelor,Employed,54853,195,49972,48,8.46,663,4,0,10.932,1,1,Business,0
+CUST0694,37,Male,PhD,Employed,115572,13,4338,60,9.93,682,4,3,0.45,1,1,Personal,0
+CUST0695,36,Other,Master,Part-Time,80406,52,24782,36,18.9,707,5,2,3.699,0,0,Business,0
+CUST0696,66,Female,High School,Employed,22896,35,12921,24,11.28,394,11,0,6.772,1,0,Car,1
+CUST0697,26,Other,High School,Self-Employed,39440,30,40217,12,14.46,645,4,0,12.236,0,0,Business,1
+CUST0698,55,Female,Bachelor,Self-Employed,56341,396,8154,12,10.71,630,12,0,1.737,1,1,Education,0
+CUST0699,51,Male,High School,Employed,27824,339,41042,48,6.8,435,11,1,17.701,0,0,Personal,1
+CUST0700,53,Male,High School,Employed,28276,356,30227,36,8.71,830,7,1,12.828,1,1,Business,0
+CUST0701,38,Other,Master,Employed,68647,70,22271,24,5.34,756,9,2,3.893,0,1,Personal,0
+CUST0702,40,Male,High School,Employed,29180,175,11642,48,18.39,558,9,1,4.788,1,1,Education,1
+CUST0703,40,Male,High School,Employed,29790,13,34005,36,4.6,771,6,1,13.698,0,0,Education,0
+CUST0704,54,Male,Bachelor,Self-Employed,67564,79,7636,36,7.41,628,2,0,1.356,0,1,Education,0
+CUST0705,65,Male,Bachelor,Employed,64448,133,21793,60,10.84,630,10,0,4.058,1,0,Medical,0
+CUST0706,34,Female,Bachelor,Employed,73046,118,37771,24,12.17,716,3,1,6.205,1,1,Personal,0
+CUST0707,49,Other,Bachelor,Unemployed,26932,13,29585,12,19.92,693,10,4,13.182,0,1,Car,1
+CUST0708,40,Other,High School,Part-Time,29225,32,28407,12,13.94,649,1,0,11.664,1,0,Education,0
+CUST0709,28,Male,Master,Employed,67058,15,40313,60,19.58,453,1,2,7.214,0,1,Car,1
+CUST0710,31,Male,Bachelor,Employed,45307,0,33782,60,18.53,640,10,3,8.947,0,0,Car,1
+CUST0711,52,Other,High School,Employed,18000,153,28513,48,24.55,784,4,3,19.009,1,1,Medical,1
+CUST0712,23,Other,High School,Part-Time,35144,10,17773,24,14.93,619,8,0,6.069,0,1,Education,0
+CUST0713,39,Other,Bachelor,Self-Employed,69763,108,11710,12,10.28,704,2,1,2.014,0,1,Home,0
+CUST0714,50,Other,High School,Part-Time,22511,71,32664,48,10.15,733,9,0,17.412,1,0,Car,0
+CUST0715,31,Female,Bachelor,Self-Employed,45772,100,11177,36,20.51,774,11,0,2.93,1,0,Medical,0
+CUST0716,64,Male,High School,Self-Employed,38329,259,45182,60,9.79,597,10,0,14.146,1,0,Home,0
+CUST0717,68,Female,High School,Employed,46659,243,23211,24,24.52,784,12,2,5.97,0,0,Medical,0
+CUST0718,26,Other,High School,Employed,23654,2,6776,48,20.07,489,3,0,3.438,1,1,Car,0
+CUST0719,58,Male,Bachelor,Employed,36179,115,15185,24,13.35,648,9,2,5.037,0,0,Business,0
+CUST0720,35,Other,High School,Employed,23377,1,25564,48,16.09,700,11,2,13.123,1,0,Car,0
+CUST0721,52,Male,Bachelor,Employed,80962,34,30762,48,17.26,524,2,1,4.559,0,1,Home,0
+CUST0722,56,Other,Bachelor,Employed,58038,148,18474,48,18.85,824,5,0,3.82,0,1,Personal,0
+CUST0723,25,Male,Bachelor,Part-Time,28418,16,44810,12,5.16,523,7,0,18.922,1,0,Car,1
+CUST0724,64,Other,Master,Employed,72274,252,6778,60,22.95,590,1,0,1.125,0,1,Business,0
+CUST0725,61,Female,PhD,Part-Time,95647,370,4735,12,5.23,647,9,0,0.594,1,1,Personal,0
+CUST0726,36,Male,High School,Employed,18000,50,37008,60,22.05,572,9,0,24.672,1,1,Medical,0
+CUST0727,49,Other,Master,Employed,89680,315,26098,36,8.45,673,7,4,3.492,0,0,Home,1
+CUST0728,56,Other,Bachelor,Unemployed,58944,7,49174,24,21.08,686,3,0,10.011,1,1,Business,0
+CUST0729,37,Other,PhD,Employed,77755,168,7033,12,9.6,727,9,0,1.085,1,0,Personal,0
+CUST0730,57,Male,Bachelor,Self-Employed,71111,269,19533,36,18.73,606,7,2,3.296,1,1,Home,0
+CUST0731,30,Female,Master,Employed,73197,15,26404,24,5.23,759,4,1,4.329,1,0,Home,0
+CUST0732,59,Female,Bachelor,Part-Time,48140,43,5913,36,21.93,625,7,0,1.474,0,0,Car,0
+CUST0733,33,Female,Bachelor,Employed,56048,89,3703,60,19.89,618,6,4,0.793,1,0,Home,1
+CUST0734,49,Female,Master,Unemployed,53753,29,9157,60,12.42,612,9,0,2.044,1,0,Personal,0
+CUST0735,37,Other,High School,Employed,38022,21,18379,60,10.53,406,10,0,5.801,1,1,Education,0
+CUST0736,60,Other,High School,Employed,43639,338,23036,36,21.79,622,1,0,6.335,1,1,Medical,0
+CUST0737,35,Male,Bachelor,Employed,85136,141,22580,12,13.48,742,5,2,3.183,1,1,Personal,0
+CUST0738,61,Female,Bachelor,Employed,66889,335,4523,24,18.46,724,1,1,0.811,0,0,Medical,0
+CUST0739,38,Male,High School,Part-Time,37833,11,41359,24,11.63,538,2,1,13.118,0,0,Car,1
+CUST0740,65,Other,Bachelor,Self-Employed,70416,144,11376,12,11.16,661,7,3,1.939,1,1,Education,0
+CUST0741,23,Other,High School,Employed,47968,0,8962,60,8.81,546,6,1,2.242,1,0,Personal,1
+CUST0742,46,Female,Master,Self-Employed,88711,39,16718,60,14.77,527,7,1,2.261,0,0,Business,0
+CUST0743,64,Male,Bachelor,Employed,54684,150,17992,36,9.46,828,6,0,3.948,1,0,Medical,0
+CUST0744,48,Other,Bachelor,Employed,70347,258,7009,36,17.83,553,7,0,1.196,0,0,Personal,0
+CUST0745,59,Male,Bachelor,Self-Employed,61766,60,7341,48,13.09,552,3,1,1.426,0,0,Personal,1
+CUST0746,57,Male,Master,Employed,100497,51,10283,12,21.51,699,2,0,1.228,1,1,Education,0
+CUST0747,47,Other,Bachelor,Employed,54461,172,40763,60,17.08,727,12,0,8.982,1,1,Personal,0
+CUST0748,40,Female,Master,Self-Employed,94078,187,14022,60,23.19,678,1,1,1.789,1,1,Personal,0
+CUST0749,50,Female,High School,Self-Employed,29478,118,21487,48,11.46,809,10,1,8.747,1,1,Education,0
+CUST0750,31,Female,High School,Unemployed,36557,93,15807,48,15.09,516,2,0,5.189,0,0,Education,1
+CUST0751,53,Male,Bachelor,Part-Time,50241,310,8954,24,18.1,850,3,0,2.139,0,0,Business,0
+CUST0752,34,Other,High School,Part-Time,29512,6,26218,24,10.25,739,8,1,10.661,1,1,Home,0
+CUST0753,67,Male,Master,Employed,100309,44,10966,36,19.43,565,2,5,1.312,0,0,Medical,1
+CUST0754,39,Other,Bachelor,Self-Employed,73261,172,6855,36,22.7,684,12,2,1.123,1,0,Business,0
+CUST0755,62,Male,High School,Self-Employed,36335,192,16431,24,9.91,642,3,0,5.427,0,1,Education,0
+CUST0756,55,Other,Master,Self-Employed,121708,1,30463,12,14.51,519,1,0,3.004,1,1,Medical,0
+CUST0757,37,Female,Bachelor,Employed,52956,76,17197,36,18.13,587,8,2,3.897,1,1,Business,0
+CUST0758,40,Female,Bachelor,Employed,67781,63,45412,48,6.86,554,2,0,8.04,1,0,Personal,1
+CUST0759,60,Female,Bachelor,Employed,53610,400,28804,12,15.97,755,6,0,6.447,1,1,Personal,0
+CUST0760,25,Other,Bachelor,Self-Employed,63103,21,43698,12,10.79,530,3,1,8.31,0,1,Car,1
+CUST0761,56,Other,High School,Self-Employed,33125,360,23842,36,20.14,598,9,0,8.637,0,0,Education,0
+CUST0762,56,Female,Bachelor,Self-Employed,66033,148,12577,36,11.26,674,1,0,2.286,0,0,Business,0
+CUST0763,53,Other,High School,Employed,43174,352,18207,12,10.06,661,2,2,5.061,1,1,Car,0
+CUST0764,26,Female,High School,Self-Employed,20857,48,29222,12,4.8,705,3,0,16.813,1,0,Business,0
+CUST0765,42,Female,Bachelor,Self-Employed,52827,25,19319,60,14.12,744,5,0,4.388,0,1,Business,0
+CUST0766,56,Female,Bachelor,Employed,61305,254,49681,48,23.91,652,8,0,9.725,0,1,Car,0
+CUST0767,45,Other,Bachelor,Employed,54997,42,8251,60,7.95,691,8,1,1.8,0,0,Personal,0
+CUST0768,58,Other,Master,Employed,60766,252,18516,48,10.85,610,6,1,3.657,1,0,Education,0
+CUST0769,35,Other,Master,Part-Time,64959,60,23091,48,18.96,615,9,1,4.266,0,0,Personal,0
+CUST0770,22,Other,High School,Self-Employed,33953,0,14934,48,22.24,797,8,0,5.278,1,0,Medical,0
+CUST0771,48,Other,Bachelor,Employed,46876,138,36241,36,17.05,672,6,1,9.277,0,0,Education,0
+CUST0772,67,Female,Bachelor,Self-Employed,34018,241,32335,24,23.6,783,3,0,11.406,1,0,Education,0
+CUST0773,33,Female,High School,Employed,38844,48,15059,12,15.47,627,6,0,4.652,1,0,Home,0
+CUST0774,44,Male,Bachelor,Unemployed,35286,140,20624,48,16.42,591,7,4,7.014,0,0,Business,1
+CUST0775,28,Male,Master,Employed,81226,66,40490,48,11.24,686,10,1,5.982,1,0,Car,0
+CUST0776,27,Female,PhD,Self-Employed,29146,9,12801,48,22.34,545,1,0,5.27,1,1,Medical,1
+CUST0777,42,Other,Bachelor,Self-Employed,58839,198,27266,48,11.74,739,9,0,5.561,0,0,Car,0
+CUST0778,49,Female,Bachelor,Employed,38223,128,46916,12,15.88,554,1,3,14.729,1,1,Medical,1
+CUST0779,35,Male,Bachelor,Part-Time,66289,95,13731,12,8.5,608,6,1,2.486,0,1,Education,1
+CUST0780,54,Female,PhD,Self-Employed,77557,17,44416,36,17.59,374,12,0,6.872,0,0,Medical,1
+CUST0781,60,Male,Bachelor,Employed,28843,384,37755,12,5.28,673,1,1,15.708,0,0,Car,0
+CUST0782,25,Other,Bachelor,Self-Employed,71573,20,8388,60,10.16,727,12,0,1.406,1,0,Business,0
+CUST0783,45,Female,Bachelor,Unemployed,35309,31,6256,24,21.33,748,9,0,2.126,1,0,Car,1
+CUST0784,66,Male,Bachelor,Employed,63481,382,2211,36,10.08,585,10,3,0.418,0,1,Home,1
+CUST0785,27,Other,High School,Employed,27378,1,13097,12,8.94,767,6,0,5.741,0,1,Medical,1
+CUST0786,30,Female,Bachelor,Employed,47777,36,13665,36,7.36,611,4,0,3.432,0,0,Education,0
+CUST0787,66,Female,Bachelor,Employed,49540,395,44062,60,13.67,715,11,1,10.673,0,0,Business,0
+CUST0788,66,Male,Bachelor,Self-Employed,73599,349,20919,24,11.48,764,12,2,3.411,0,0,Education,0
+CUST0789,51,Male,Bachelor,Unemployed,37639,243,11162,48,16.47,624,6,1,3.559,0,1,Medical,0
+CUST0790,22,Female,High School,Employed,20271,0,44459,12,8.32,602,9,0,26.319,0,1,Business,1
+CUST0791,59,Other,Bachelor,Employed,35832,129,49406,36,16.76,752,8,1,16.546,1,0,Car,0
+CUST0792,39,Other,PhD,Employed,128164,7,12749,60,7.89,597,12,4,1.194,0,0,Car,1
+CUST0793,43,Female,Master,Employed,112664,36,24682,48,12.58,735,8,0,2.629,0,0,Car,0
+CUST0794,35,Other,Bachelor,Self-Employed,66664,39,46873,60,21.75,559,6,0,8.437,1,0,Personal,1
+CUST0795,46,Male,Master,Self-Employed,82753,65,22863,24,12.66,595,6,3,3.315,1,1,Business,0
+CUST0796,59,Female,High School,Part-Time,41771,91,17411,36,11.89,634,10,2,5.002,0,0,Car,0
+CUST0797,34,Female,High School,Employed,38573,46,29899,24,10.31,694,7,1,9.302,1,0,Education,0
+CUST0798,55,Female,Master,Employed,100667,42,24694,12,17.88,490,3,0,2.944,1,1,Home,1
+CUST0799,63,Female,PhD,Employed,113126,132,43557,12,16.81,555,8,1,4.62,1,1,Business,1
+CUST0800,49,Female,Bachelor,Employed,63875,40,11855,12,11.38,762,4,1,2.227,1,1,Home,0
+CUST0801,40,Female,High School,Part-Time,29515,153,46983,36,9.65,647,6,1,19.102,0,1,Car,1
+CUST0802,42,Female,Bachelor,Employed,60134,28,25412,12,15.34,590,9,0,5.071,0,1,Personal,0
+CUST0803,44,Other,PhD,Self-Employed,111904,234,4663,12,11.16,826,1,0,0.5,0,1,Business,0
+CUST0804,41,Male,Bachelor,Employed,73774,191,18833,12,21.57,594,4,1,3.063,1,0,Medical,0
+CUST0805,45,Male,Bachelor,Employed,68681,95,20143,60,18.2,608,10,0,3.519,0,1,Education,0
+CUST0806,48,Female,Bachelor,Employed,59552,236,41261,36,6.48,664,4,0,8.314,1,1,Business,0
+CUST0807,62,Other,Bachelor,Employed,39697,175,24321,36,11.57,659,8,0,7.352,1,0,Business,0
+CUST0808,47,Other,High School,Part-Time,38971,40,43378,48,15.95,601,9,0,13.357,1,1,Personal,0
+CUST0809,51,Other,High School,Self-Employed,35720,220,29223,12,19.83,720,5,1,9.817,1,0,Personal,0
+CUST0810,29,Female,High School,Employed,40051,14,39404,36,8.14,733,12,5,11.806,1,1,Car,1
+CUST0811,60,Female,Bachelor,Self-Employed,43362,351,43492,36,14.75,532,9,0,12.036,1,1,Personal,1
+CUST0812,33,Male,Bachelor,Employed,43936,85,32410,24,18.44,747,7,5,8.852,1,0,Medical,0
+CUST0813,61,Male,High School,Self-Employed,28723,292,49982,48,23.79,639,6,1,20.882,0,1,Medical,0
+CUST0814,60,Female,Master,Self-Employed,80690,282,35510,24,21.85,690,4,0,5.281,0,1,Car,0
+CUST0815,26,Male,Master,Employed,67084,38,31075,24,20.75,658,8,1,5.559,0,1,Car,0
+CUST0816,22,Female,Master,Self-Employed,94354,0,36063,48,22.09,733,5,3,4.587,0,0,Personal,0
+CUST0817,68,Male,High School,Part-Time,38074,20,25814,48,19.12,498,9,1,8.136,1,1,Home,1
+CUST0818,59,Other,Master,Employed,94700,86,26016,48,17.89,686,8,0,3.297,0,1,Medical,0
+CUST0819,26,Male,Bachelor,Self-Employed,58383,21,21352,48,11.25,471,8,1,4.389,1,0,Car,0
+CUST0820,45,Female,Bachelor,Self-Employed,57546,157,48913,24,16.08,586,11,0,10.2,0,0,Business,1
+CUST0821,46,Male,Bachelor,Employed,69365,75,40288,12,9.79,533,12,1,6.97,1,1,Business,1
+CUST0822,59,Male,Master,Employed,76917,191,26771,48,17.73,718,8,3,4.177,0,0,Education,0
+CUST0823,41,Male,High School,Employed,21972,30,44598,24,11.77,538,8,1,24.357,0,0,Medical,1
+CUST0824,62,Other,High School,Employed,33563,34,19791,60,24.12,710,2,5,7.076,0,1,Business,0
+CUST0825,37,Male,High School,Part-Time,39706,62,16964,48,8.12,850,10,0,5.127,1,0,Medical,0
+CUST0826,30,Male,Bachelor,Employed,25789,29,17986,60,20.04,594,1,0,8.369,0,0,Personal,0
+CUST0827,50,Male,High School,Employed,26629,249,21658,60,4.7,621,7,3,9.76,0,1,Medical,1
+CUST0828,51,Male,PhD,Employed,89301,208,41410,36,14.55,692,9,0,5.565,1,1,Business,0
+CUST0829,43,Female,Bachelor,Employed,52360,250,13939,48,4.63,740,9,0,3.195,0,0,Home,0
+CUST0830,50,Female,Bachelor,Self-Employed,52278,93,14687,12,20.06,667,6,2,3.371,1,0,Medical,0
+CUST0831,61,Female,High School,Self-Employed,29665,202,13257,24,16.95,698,3,0,5.363,1,1,Medical,0
+CUST0832,41,Female,Bachelor,Employed,69223,186,25195,36,13.67,550,7,0,4.368,1,0,Personal,1
+CUST0833,63,Female,Master,Unemployed,82434,360,15252,24,18.01,620,5,0,2.22,1,0,Education,1
+CUST0834,57,Female,Master,Part-Time,64399,316,34960,48,21.97,698,6,2,6.514,1,0,Medical,0
+CUST0835,66,Male,PhD,Self-Employed,110078,300,26577,12,6.57,850,11,0,2.897,1,1,Education,0
+CUST0836,26,Male,Bachelor,Self-Employed,63264,26,11946,24,16.53,525,8,0,2.266,1,1,Medical,0
+CUST0837,30,Female,Master,Employed,89228,40,25673,48,19.74,486,4,0,3.453,1,0,Personal,0
+CUST0838,67,Other,Bachelor,Self-Employed,76918,11,11192,12,17.6,477,1,3,1.746,0,1,Home,1
+CUST0839,49,Male,PhD,Unemployed,127097,275,34244,36,16.23,576,11,0,3.233,0,0,Business,1
+CUST0840,27,Male,Bachelor,Employed,52853,41,14510,12,20.15,566,8,3,3.294,0,1,Home,1
+CUST0841,63,Male,Bachelor,Employed,62619,221,3407,48,16.22,479,1,1,0.653,1,0,Home,0
+CUST0842,36,Male,Bachelor,Self-Employed,65439,136,31999,24,20.21,556,12,3,5.868,0,0,Car,1
+CUST0843,41,Male,High School,Employed,19619,199,10344,60,11.61,524,2,0,6.327,1,0,Medical,1
+CUST0844,39,Female,High School,Part-Time,36558,197,25287,12,7.3,726,7,0,8.3,0,1,Home,0
+CUST0845,50,Female,Bachelor,Employed,38540,47,13475,60,23.13,765,12,1,4.196,0,0,Home,0
+CUST0846,42,Female,Bachelor,Employed,44363,23,35220,36,14.25,399,1,0,9.527,1,1,Home,0
+CUST0847,45,Other,PhD,Part-Time,61141,153,17031,12,17.77,718,7,3,3.343,0,1,Medical,0
+CUST0848,37,Female,High School,Employed,30534,132,12207,24,18.68,642,4,3,4.797,1,1,Business,0
+CUST0849,32,Female,Bachelor,Employed,49748,103,45821,24,11.95,633,2,2,11.053,0,1,Car,0
+CUST0850,38,Male,Bachelor,Employed,65975,6,23730,12,22.63,838,7,0,4.316,1,0,Car,0
+CUST0851,22,Female,Bachelor,Employed,53294,0,32437,48,21.97,657,9,0,7.304,0,1,Personal,0
+CUST0852,42,Other,Bachelor,Employed,51407,157,45806,12,14.25,638,4,0,10.693,0,0,Car,0
+CUST0853,27,Female,Master,Self-Employed,76290,15,16825,36,8.27,775,11,0,2.646,1,1,Car,0
+CUST0854,59,Female,Master,Part-Time,96193,382,27233,12,20.7,656,11,0,3.397,0,0,Personal,0
+CUST0855,22,Other,Bachelor,Employed,46643,0,31629,24,13.75,756,5,1,8.137,0,1,Medical,0
+CUST0856,33,Male,Bachelor,Part-Time,51947,124,37972,48,18.03,594,9,0,8.772,1,1,Medical,0
+CUST0857,56,Male,High School,Employed,28254,281,48707,36,7.08,652,6,0,20.687,1,0,Business,0
+CUST0858,54,Male,High School,Part-Time,43430,113,3095,24,19.46,557,3,1,0.855,0,1,Business,1
+CUST0859,66,Male,PhD,Employed,101096,84,43609,60,9.12,672,12,0,5.176,1,0,Education,0
+CUST0860,40,Other,Bachelor,Employed,49002,107,33230,48,11.07,624,2,0,8.138,1,0,Medical,0
+CUST0861,60,Male,PhD,Employed,97042,82,17890,48,20.54,669,11,0,2.212,0,0,Education,0
+CUST0862,30,Male,Master,Employed,131467,94,40399,24,8.7,690,6,0,3.688,0,1,Business,0
+CUST0863,62,Female,Bachelor,Employed,33051,277,41979,48,7.64,710,12,0,15.242,1,0,Personal,0
+CUST0864,59,Female,High School,Self-Employed,37838,406,33935,36,9.08,850,10,4,10.762,1,0,Medical,1
+CUST0865,66,Male,PhD,Employed,74394,143,49451,36,22.96,487,11,1,7.977,1,1,Education,1
+CUST0866,53,Other,High School,Employed,33025,302,30427,36,6.62,670,9,1,11.056,1,1,Home,0
+CUST0867,28,Other,Bachelor,Part-Time,76199,15,17637,36,16.33,602,12,4,2.778,1,1,Medical,1
+CUST0868,50,Other,Master,Employed,89333,267,4442,48,21.09,519,11,4,0.597,0,0,Home,1
+CUST0869,43,Male,High School,Unemployed,36141,217,18614,36,21.19,486,6,0,6.18,0,1,Personal,1
+CUST0870,62,Other,Bachelor,Part-Time,78054,107,38600,60,17.73,630,3,3,5.934,0,1,Education,0
+CUST0871,56,Female,Master,Part-Time,87408,51,49313,12,17.54,825,6,1,6.77,0,1,Car,0
+CUST0872,43,Other,Master,Part-Time,63416,193,12434,24,11.08,740,9,2,2.353,1,0,Personal,0
+CUST0873,66,Male,High School,Employed,27765,339,28518,36,7.47,424,6,1,12.325,1,0,Personal,1
+CUST0874,40,Male,Bachelor,Unemployed,38420,82,16734,48,21.35,641,5,0,5.227,0,0,Car,1
+CUST0875,50,Other,Bachelor,Employed,68804,10,42122,48,21.59,645,7,1,7.346,0,1,Car,0
+CUST0876,46,Other,Master,Self-Employed,67983,186,19272,48,12.05,830,6,1,3.402,0,0,Education,0
+CUST0877,37,Other,Master,Employed,119608,129,48422,48,15.42,767,2,2,4.858,0,1,Medical,0
+CUST0878,36,Female,Bachelor,Employed,43441,13,32162,60,13.43,609,3,0,8.884,1,0,Education,0
+CUST0879,67,Other,High School,Self-Employed,43683,291,18515,12,19.06,703,8,0,5.086,0,1,Car,0
+CUST0880,65,Male,Bachelor,Employed,63343,408,35289,48,7.44,493,6,3,6.685,0,1,Business,1
+CUST0881,26,Male,Bachelor,Employed,55104,15,41421,24,21.55,478,1,1,9.02,1,0,Education,1
+CUST0882,66,Male,PhD,Employed,125592,208,26988,48,7.33,615,6,0,2.579,1,1,Personal,0
+CUST0883,33,Female,Bachelor,Employed,45569,20,24263,48,19.84,756,9,0,6.389,0,0,Medical,0
+CUST0884,55,Male,High School,Employed,32265,156,3812,60,15.99,798,4,1,1.418,1,0,Business,0
+CUST0885,44,Female,High School,Self-Employed,36366,90,30881,24,14.85,719,8,0,10.19,0,0,Education,0
+CUST0886,59,Other,Bachelor,Part-Time,71772,254,14658,60,7.67,571,8,4,2.451,1,1,Home,1
+CUST0887,57,Male,High School,Employed,44821,251,14343,48,5.35,837,1,4,3.84,1,0,Business,0
+CUST0888,55,Female,Bachelor,Self-Employed,47088,267,27833,60,17.62,629,4,0,7.093,1,1,Personal,0
+CUST0889,27,Male,Bachelor,Employed,50753,24,22047,48,24.74,743,5,2,5.213,0,0,Car,0
+CUST0890,58,Other,Bachelor,Self-Employed,76066,378,5142,60,5.07,736,6,5,0.811,0,1,Medical,0
+CUST0891,55,Male,Master,Employed,79399,109,8465,48,23.88,612,4,2,1.279,0,0,Personal,0
+CUST0892,24,Female,PhD,Employed,93619,22,9623,36,4.6,651,6,5,1.233,1,0,Education,1
+CUST0893,24,Male,High School,Employed,27540,13,46590,60,18.99,586,11,0,20.301,1,1,Medical,0
+CUST0894,39,Other,Master,Employed,92680,199,33995,36,16.74,569,12,2,4.402,0,0,Home,0
+CUST0895,29,Female,High School,Part-Time,26921,41,12968,36,23.99,644,12,4,5.78,1,1,Business,1
+CUST0896,28,Male,Master,Employed,108006,25,7669,60,21.77,676,1,0,0.852,0,0,Car,0
+CUST0897,46,Female,High School,Self-Employed,34065,189,30711,24,13.52,570,1,1,10.818,0,0,Medical,1
+CUST0898,31,Other,Bachelor,Unemployed,58666,22,24945,48,8.59,578,3,4,5.102,0,0,Car,1
+CUST0899,34,Other,Bachelor,Self-Employed,73430,62,41430,60,10.37,657,3,0,6.771,1,0,Home,0
+CUST0900,23,Male,Bachelor,Employed,64971,5,26272,12,7.43,697,7,0,4.852,0,1,Business,0
+CUST0901,36,Female,Master,Employed,78067,121,39453,48,10.26,634,10,0,6.064,0,1,Business,0
+CUST0902,51,Male,Bachelor,Part-Time,93638,232,37157,36,9.07,602,7,5,4.762,0,1,Medical,1
+CUST0903,49,Female,Master,Employed,50731,277,16875,48,7.05,679,11,0,3.992,1,1,Personal,0
+CUST0904,46,Female,Bachelor,Employed,42376,204,10723,60,8.7,653,4,4,3.037,1,1,Business,0
+CUST0905,45,Female,Bachelor,Employed,62387,231,21681,60,12.91,677,4,0,4.17,0,1,Business,0
+CUST0906,66,Other,High School,Employed,39838,88,19912,60,20.19,557,4,0,5.998,1,1,Car,0
+CUST0907,30,Male,Master,Employed,55231,67,43162,12,18.29,531,2,0,9.378,0,0,Education,0
+CUST0908,34,Male,Master,Unemployed,122719,78,6326,36,17.21,553,8,0,0.619,0,1,Education,1
+CUST0909,57,Other,High School,Part-Time,34082,316,28848,24,15.96,682,11,0,10.157,1,0,Home,1
+CUST0910,28,Female,Master,Employed,66896,48,32986,48,14.23,654,6,4,5.917,0,1,Home,0
+CUST0911,64,Male,Bachelor,Part-Time,88159,35,13615,24,17.23,624,11,0,1.853,0,0,Medical,1
+CUST0912,67,Female,Master,Part-Time,77689,181,41505,48,4.83,720,3,0,6.411,1,0,Business,0
+CUST0913,55,Male,Master,Employed,76826,332,17650,36,9.87,694,7,0,2.757,1,1,Medical,0
+CUST0914,61,Other,High School,Employed,33751,154,26947,24,22.95,620,11,0,9.581,1,1,Education,0
+CUST0915,49,Male,Bachelor,Employed,79636,282,14642,48,10.25,584,2,4,2.206,0,1,Business,1
+CUST0916,28,Other,High School,Employed,32604,8,12092,60,20.85,676,1,2,4.45,1,0,Car,0
+CUST0917,62,Other,PhD,Unemployed,93237,340,8935,60,6.99,574,12,0,1.15,0,0,Home,1
+CUST0918,65,Other,High School,Employed,31788,40,27355,36,17.26,705,12,5,10.327,0,1,Education,1
+CUST0919,65,Male,Bachelor,Part-Time,41853,40,13524,24,9.87,682,9,1,3.878,0,0,Medical,0
+CUST0920,36,Other,High School,Self-Employed,46387,151,21445,60,12.91,595,5,3,5.548,0,0,Medical,0
+CUST0921,38,Other,Bachelor,Employed,73670,187,5958,60,19.92,684,7,0,0.97,1,0,Medical,0
+CUST0922,45,Other,Bachelor,Self-Employed,68166,33,39303,36,19.33,600,8,0,6.919,1,1,Education,0
+CUST0923,34,Male,High School,Employed,29017,118,23257,48,13.96,544,8,0,9.618,0,1,Personal,1
+CUST0924,46,Male,PhD,Self-Employed,75385,204,25967,12,13.36,729,3,1,4.134,0,0,Home,0
+CUST0925,47,Male,Bachelor,Employed,63482,81,21891,60,10.16,751,4,0,4.138,1,1,Personal,0
+CUST0926,44,Female,PhD,Employed,113234,165,48269,48,16.9,716,8,2,5.115,1,1,Home,0
+CUST0927,62,Female,High School,Self-Employed,28590,62,41263,24,15.3,543,6,2,17.319,0,1,Business,1
+CUST0928,48,Other,High School,Unemployed,35364,119,22482,48,20.55,516,6,1,7.629,0,1,Medical,1
+CUST0929,36,Other,Master,Self-Employed,88012,144,32785,12,10.89,570,2,0,4.47,0,1,Home,0
+CUST0930,68,Other,Bachelor,Employed,59120,398,14660,36,19.02,526,8,0,2.976,0,1,Education,1
+CUST0931,52,Male,Bachelor,Part-Time,74082,160,41634,60,8.58,609,11,0,6.744,0,1,Medical,0
+CUST0932,54,Female,Bachelor,Part-Time,48490,216,47917,12,10.58,663,1,1,11.858,1,0,Education,0
+CUST0933,31,Other,Bachelor,Employed,66670,40,9061,36,13.8,730,4,2,1.631,1,1,Car,0
+CUST0934,29,Female,High School,Employed,46455,61,26171,24,10.93,616,11,0,6.76,1,1,Car,0
+CUST0935,61,Male,Master,Employed,76564,291,4580,60,5.64,766,12,2,0.718,1,0,Home,0
+CUST0936,67,Male,High School,Self-Employed,39928,182,24161,12,12.92,640,9,0,7.261,1,1,Medical,0
+CUST0937,57,Male,Master,Part-Time,72381,133,16902,24,5.65,655,11,1,2.802,0,0,Personal,0
+CUST0938,31,Male,PhD,Employed,122142,40,23164,48,19.92,630,5,0,2.276,1,0,Home,0
+CUST0939,59,Other,High School,Employed,24593,41,40114,36,14.89,644,3,0,19.573,0,0,Medical,0
+CUST0940,45,Other,Bachelor,Employed,50055,103,41820,36,11.32,603,2,1,10.026,1,0,Personal,0
+CUST0941,63,Female,Bachelor,Self-Employed,59995,198,8994,24,8.58,686,10,2,1.799,1,0,Business,0
+CUST0942,62,Female,High School,Part-Time,34050,129,16208,60,4.99,827,6,0,5.712,1,1,Personal,0
+CUST0943,60,Female,Master,Unemployed,54585,407,45714,24,6.08,656,2,3,10.05,0,0,Home,1
+CUST0944,46,Male,Master,Unemployed,74592,49,5508,36,8.89,678,6,0,0.886,1,0,Education,1
+CUST0945,29,Male,Bachelor,Employed,85427,26,9885,12,22.46,551,8,0,1.389,0,0,Medical,0
+CUST0946,66,Female,Bachelor,Employed,66393,359,38911,48,5.79,615,7,1,7.033,0,0,Personal,0
+CUST0947,51,Male,Bachelor,Unemployed,54144,32,20404,36,19.16,626,4,2,4.522,0,1,Car,0
+CUST0948,63,Other,High School,Employed,18447,222,38630,48,20.66,604,5,0,25.129,1,1,Personal,0
+CUST0949,32,Male,Bachelor,Part-Time,55304,41,43898,36,12.8,516,10,0,9.525,1,1,Education,1
+CUST0950,53,Other,Bachelor,Employed,35742,221,7665,60,9.67,787,11,0,2.573,0,0,Education,0
+CUST0951,62,Male,High School,Employed,23113,408,39597,24,24.44,517,4,3,20.558,1,0,Personal,1
+CUST0952,55,Other,High School,Employed,31402,281,45557,24,19.59,569,8,0,17.409,1,1,Business,0
+CUST0953,47,Male,High School,Employed,20818,54,16798,48,7.68,731,12,3,9.683,0,0,Business,0
+CUST0954,66,Male,PhD,Employed,111843,207,21848,24,15.56,790,1,0,2.344,1,0,Car,0
+CUST0955,65,Female,High School,Employed,39981,183,45357,48,4.72,608,10,0,13.614,1,1,Car,0
+CUST0956,52,Other,Bachelor,Employed,66402,347,34200,12,14.7,594,8,3,6.181,1,0,Personal,1
+CUST0957,59,Other,Bachelor,Employed,74562,13,26901,12,24.14,619,2,0,4.329,0,0,Car,0
+CUST0958,28,Other,Bachelor,Self-Employed,40089,30,41558,48,5.2,576,8,0,12.44,1,0,Home,1
+CUST0959,30,Male,Bachelor,Self-Employed,74957,8,34903,24,13.95,660,12,1,5.588,0,1,Business,0
+CUST0960,50,Female,Bachelor,Employed,42030,148,41395,36,13.21,538,2,0,11.819,1,0,Home,0
+CUST0961,63,Male,Master,Self-Employed,94529,174,46763,60,21.75,657,4,2,5.936,0,0,Car,0
+CUST0962,60,Female,Bachelor,Employed,87688,187,47804,48,4.92,488,11,1,6.542,1,1,Home,0
+CUST0963,49,Male,Bachelor,Employed,68386,183,33105,48,14.85,671,4,4,5.809,0,0,Home,0
+CUST0964,34,Male,Bachelor,Unemployed,62815,95,38527,36,14.25,783,10,0,7.36,0,0,Car,0
+CUST0965,41,Female,High School,Self-Employed,34807,201,2797,12,15.2,642,5,1,0.964,0,1,Car,1
+CUST0966,35,Female,High School,Employed,24413,122,16032,12,8.02,507,2,0,7.88,0,0,Home,1
+CUST0967,54,Female,PhD,Employed,129713,211,43000,36,23.63,760,5,0,3.978,1,0,Education,0
+CUST0968,45,Other,Bachelor,Self-Employed,61742,115,10344,48,17.04,692,11,3,2.01,0,0,Business,0
+CUST0969,40,Other,Bachelor,Employed,45797,143,7560,24,20.27,579,1,0,1.981,1,1,Personal,1
+CUST0970,41,Male,Master,Self-Employed,39133,78,32796,60,14.45,648,10,1,10.057,0,1,Education,0
+CUST0971,66,Male,Bachelor,Employed,37631,128,43230,36,23.56,624,5,1,13.785,0,1,Education,0
+CUST0972,41,Other,High School,Employed,29015,173,28970,36,9.88,509,10,3,11.981,0,1,Car,1
+CUST0973,65,Other,Bachelor,Employed,46789,297,36086,24,6.89,801,12,3,9.255,0,0,Business,0
+CUST0974,63,Other,Master,Employed,70591,200,33741,36,23.52,551,5,1,5.736,1,0,Personal,1
+CUST0975,47,Female,High School,Employed,48793,232,38087,60,21.25,547,9,1,9.367,0,1,Home,0
+CUST0976,28,Other,Bachelor,Employed,45879,15,11157,24,7.01,660,1,3,2.918,1,0,Business,0
+CUST0977,39,Male,High School,Employed,31632,10,45273,60,5.72,535,2,0,17.175,1,1,Personal,1
+CUST0978,58,Other,Master,Unemployed,110238,181,17490,24,4.97,493,3,2,1.904,1,0,Business,1
+CUST0979,23,Male,PhD,Employed,105428,4,33867,12,6.45,363,7,0,3.855,1,0,Car,0
+CUST0980,64,Female,Bachelor,Employed,59135,307,27342,48,8.85,673,12,0,5.548,0,1,Business,0
+CUST0981,23,Male,Bachelor,Employed,70423,12,36336,36,11.07,561,8,1,6.192,1,1,Business,0
+CUST0982,60,Female,Master,Self-Employed,104889,86,28476,24,8.95,591,12,0,3.258,0,1,Business,0
+CUST0983,23,Female,Bachelor,Employed,54762,11,3433,48,16.16,611,6,0,0.752,1,1,Medical,0
+CUST0984,38,Female,Bachelor,Employed,54609,66,33360,24,7.94,727,10,1,7.331,0,0,Personal,0
+CUST0985,25,Female,Master,Employed,89793,35,5281,36,6.12,617,5,0,0.706,1,0,Personal,0
+CUST0986,48,Male,Bachelor,Employed,51258,118,8047,60,5.56,541,12,0,1.884,1,1,Car,0
+CUST0987,23,Other,Master,Employed,80213,1,19632,24,15.39,603,8,1,2.937,1,0,Car,0
+CUST0988,22,Other,Bachelor,Employed,53497,0,35636,12,14.72,718,3,0,7.994,0,0,Car,0
+CUST0989,45,Male,Bachelor,Employed,58238,56,48755,24,7.81,702,10,2,10.046,0,1,Car,0
+CUST0990,53,Female,Bachelor,Employed,75306,277,49594,48,22.63,498,9,0,7.903,1,1,Business,1
+CUST0991,32,Female,Bachelor,Employed,61334,76,26084,36,6.86,575,7,0,5.103,1,1,Home,0
+CUST0992,35,Female,Bachelor,Self-Employed,59937,37,31487,60,20.63,639,5,0,6.304,0,0,Car,0
+CUST0993,38,Male,Bachelor,Employed,28713,118,10546,48,24.08,684,4,4,4.407,0,1,Education,0
+CUST0994,63,Other,Master,Employed,118252,150,25250,60,15.75,850,8,0,2.562,1,0,Education,0
+CUST0995,32,Other,High School,Employed,31634,7,3617,60,8.96,511,9,0,1.372,1,1,Education,0
+CUST0996,40,Female,Bachelor,Part-Time,62992,149,10080,48,19.97,530,11,2,1.92,0,0,Personal,1
+CUST0997,64,Male,Master,Self-Employed,74452,390,14866,12,17.08,598,5,0,2.396,0,0,Education,0
+CUST0998,58,Female,High School,Part-Time,30486,77,29978,60,16.09,708,2,0,11.8,0,1,Medical,0
+CUST0999,26,Other,High School,Part-Time,38046,7,7240,48,21.06,768,6,1,2.284,1,1,Education,0
+CUST1000,43,Female,Bachelor,Employed,47058,39,45761,60,15.11,615,4,0,11.669,0,1,Personal,0
